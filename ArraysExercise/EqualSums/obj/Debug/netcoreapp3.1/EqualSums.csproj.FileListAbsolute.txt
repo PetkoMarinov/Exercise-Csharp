@@ -1,0 +1,13 @@
+E:\C# Videos\C-Fundamentals\ArraysExercise\EqualSums\bin\Debug\netcoreapp3.1\EqualSums.exe
+E:\C# Videos\C-Fundamentals\ArraysExercise\EqualSums\bin\Debug\netcoreapp3.1\EqualSums.deps.json
+E:\C# Videos\C-Fundamentals\ArraysExercise\EqualSums\bin\Debug\netcoreapp3.1\EqualSums.runtimeconfig.json
+E:\C# Videos\C-Fundamentals\ArraysExercise\EqualSums\bin\Debug\netcoreapp3.1\EqualSums.runtimeconfig.dev.json
+E:\C# Videos\C-Fundamentals\ArraysExercise\EqualSums\bin\Debug\netcoreapp3.1\EqualSums.dll
+E:\C# Videos\C-Fundamentals\ArraysExercise\EqualSums\bin\Debug\netcoreapp3.1\EqualSums.pdb
+E:\C# Videos\C-Fundamentals\ArraysExercise\EqualSums\obj\Debug\netcoreapp3.1\EqualSums.AssemblyInfoInputs.cache
+E:\C# Videos\C-Fundamentals\ArraysExercise\EqualSums\obj\Debug\netcoreapp3.1\EqualSums.AssemblyInfo.cs
+E:\C# Videos\C-Fundamentals\ArraysExercise\EqualSums\obj\Debug\netcoreapp3.1\EqualSums.csproj.CoreCompileInputs.cache
+E:\C# Videos\C-Fundamentals\ArraysExercise\EqualSums\obj\Debug\netcoreapp3.1\EqualSums.dll
+E:\C# Videos\C-Fundamentals\ArraysExercise\EqualSums\obj\Debug\netcoreapp3.1\EqualSums.pdb
+E:\C# Videos\C-Fundamentals\ArraysExercise\EqualSums\obj\Debug\netcoreapp3.1\EqualSums.genruntimeconfig.cache
+E:\C# Videos\C-Fundamentals\ArraysExercise\EqualSums\obj\Debug\netcoreapp3.1\EqualSums.csprojAssemblyReference.cache
