@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\C# Videos\\Exercise\\ArraysExercise\\ZigZagArrays\\ZigZagArrays.csproj",
+      "projectUniqueName": "E:\\C# Videos\\C-Fundamentals\\ArraysExercise\\ZigZagArrays\\ZigZagArrays.csproj",
       "projectName": "ZigZagArrays",
-      "projectPath": "E:\\C# Videos\\Exercise\\ArraysExercise\\ZigZagArrays\\ZigZagArrays.csproj",
+      "projectPath": "E:\\C# Videos\\C-Fundamentals\\ArraysExercise\\ZigZagArrays\\ZigZagArrays.csproj",
       "packagesPath": "C:\\Users\\сем. Маринови\\.nuget\\packages\\",
-      "outputPath": "E:\\C# Videos\\Exercise\\ArraysExercise\\ZigZagArrays\\obj\\",
+      "outputPath": "E:\\C# Videos\\C-Fundamentals\\ArraysExercise\\ZigZagArrays\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\сем. Маринови\\AppData\\Roaming\\NuGet\\NuGet.Config",

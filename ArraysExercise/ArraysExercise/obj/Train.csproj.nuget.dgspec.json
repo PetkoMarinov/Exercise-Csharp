@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\C# Videos\\Exercise\\ArraysExercise\\ArraysExercise\\Train.csproj": {}
+    "E:\\C# Videos\\C-Fundamentals\\ArraysExercise\\ArraysExercise\\Train.csproj": {}
   },
   "projects": {
-    "E:\\C# Videos\\Exercise\\ArraysExercise\\ArraysExercise\\Train.csproj": {
+    "E:\\C# Videos\\C-Fundamentals\\ArraysExercise\\ArraysExercise\\Train.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\C# Videos\\Exercise\\ArraysExercise\\ArraysExercise\\Train.csproj",
+        "projectUniqueName": "E:\\C# Videos\\C-Fundamentals\\ArraysExercise\\ArraysExercise\\Train.csproj",
         "projectName": "Train",
-        "projectPath": "E:\\C# Videos\\Exercise\\ArraysExercise\\ArraysExercise\\Train.csproj",
+        "projectPath": "E:\\C# Videos\\C-Fundamentals\\ArraysExercise\\ArraysExercise\\Train.csproj",
         "packagesPath": "C:\\Users\\сем. Маринови\\.nuget\\packages\\",
-        "outputPath": "E:\\C# Videos\\Exercise\\ArraysExercise\\ArraysExercise\\obj\\",
+        "outputPath": "E:\\C# Videos\\C-Fundamentals\\ArraysExercise\\ArraysExercise\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\сем. Маринови\\AppData\\Roaming\\NuGet\\NuGet.Config",

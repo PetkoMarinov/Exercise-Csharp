@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\C# Videos\\Exercise\\ArraysExercise\\TopIntegers\\TopIntegers.csproj",
+      "projectUniqueName": "E:\\C# Videos\\C-Fundamentals\\ArraysExercise\\TopIntegers\\TopIntegers.csproj",
       "projectName": "TopIntegers",
-      "projectPath": "E:\\C# Videos\\Exercise\\ArraysExercise\\TopIntegers\\TopIntegers.csproj",
+      "projectPath": "E:\\C# Videos\\C-Fundamentals\\ArraysExercise\\TopIntegers\\TopIntegers.csproj",
       "packagesPath": "C:\\Users\\сем. Маринови\\.nuget\\packages\\",
-      "outputPath": "E:\\C# Videos\\Exercise\\ArraysExercise\\TopIntegers\\obj\\",
+      "outputPath": "E:\\C# Videos\\C-Fundamentals\\ArraysExercise\\TopIntegers\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\сем. Маринови\\AppData\\Roaming\\NuGet\\NuGet.Config",

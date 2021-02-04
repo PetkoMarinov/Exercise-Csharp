@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Yn9EI8waFvGxo//oTZlYs7o59gYHUuSfDZ06f5rxnCb43uF04tSQi1MFphlnhFqpJ3MoZVPvDevdiLOwbfY2sg==",
+  "dgSpecHash": "/JdBQopennVTqgVYIwqhrbbvXx0URxG+GmpTcmywAVl9KuMG0Lz7oabLK6RCvymdzYTuuDB8tFbVJ8jhcHT6Cw==",
   "success": true,
-  "projectFilePath": "E:\\C# Videos\\Exercise\\ArraysExercise\\CommonElements\\CommonElements.csproj",
+  "projectFilePath": "E:\\C# Videos\\C-Fundamentals\\ArraysExercise\\CommonElements\\CommonElements.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
