@@ -1,0 +1,12 @@
+E:\C# Videos\Exercise\Basic Syntax, Conditional Statements and Loops - Exercise\Test\bin\Debug\netcoreapp3.1\Test.exe
+E:\C# Videos\Exercise\Basic Syntax, Conditional Statements and Loops - Exercise\Test\bin\Debug\netcoreapp3.1\Test.deps.json
+E:\C# Videos\Exercise\Basic Syntax, Conditional Statements and Loops - Exercise\Test\bin\Debug\netcoreapp3.1\Test.runtimeconfig.json
+E:\C# Videos\Exercise\Basic Syntax, Conditional Statements and Loops - Exercise\Test\bin\Debug\netcoreapp3.1\Test.runtimeconfig.dev.json
+E:\C# Videos\Exercise\Basic Syntax, Conditional Statements and Loops - Exercise\Test\bin\Debug\netcoreapp3.1\Test.dll
+E:\C# Videos\Exercise\Basic Syntax, Conditional Statements and Loops - Exercise\Test\bin\Debug\netcoreapp3.1\Test.pdb
+E:\C# Videos\Exercise\Basic Syntax, Conditional Statements and Loops - Exercise\Test\obj\Debug\netcoreapp3.1\Test.AssemblyInfoInputs.cache
+E:\C# Videos\Exercise\Basic Syntax, Conditional Statements and Loops - Exercise\Test\obj\Debug\netcoreapp3.1\Test.AssemblyInfo.cs
+E:\C# Videos\Exercise\Basic Syntax, Conditional Statements and Loops - Exercise\Test\obj\Debug\netcoreapp3.1\Test.csproj.CoreCompileInputs.cache
+E:\C# Videos\Exercise\Basic Syntax, Conditional Statements and Loops - Exercise\Test\obj\Debug\netcoreapp3.1\Test.dll
+E:\C# Videos\Exercise\Basic Syntax, Conditional Statements and Loops - Exercise\Test\obj\Debug\netcoreapp3.1\Test.pdb
+E:\C# Videos\Exercise\Basic Syntax, Conditional Statements and Loops - Exercise\Test\obj\Debug\netcoreapp3.1\Test.genruntimeconfig.cache

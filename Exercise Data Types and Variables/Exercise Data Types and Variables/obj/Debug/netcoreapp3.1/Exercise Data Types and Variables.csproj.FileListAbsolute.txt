@@ -1,0 +1,13 @@
+E:\C# Videos\Exercise\Exercise Data Types and Variables\Exercise Data Types and Variables\bin\Debug\netcoreapp3.1\Exercise Data Types and Variables.exe
+E:\C# Videos\Exercise\Exercise Data Types and Variables\Exercise Data Types and Variables\bin\Debug\netcoreapp3.1\Exercise Data Types and Variables.deps.json
+E:\C# Videos\Exercise\Exercise Data Types and Variables\Exercise Data Types and Variables\bin\Debug\netcoreapp3.1\Exercise Data Types and Variables.runtimeconfig.json
+E:\C# Videos\Exercise\Exercise Data Types and Variables\Exercise Data Types and Variables\bin\Debug\netcoreapp3.1\Exercise Data Types and Variables.runtimeconfig.dev.json
+E:\C# Videos\Exercise\Exercise Data Types and Variables\Exercise Data Types and Variables\bin\Debug\netcoreapp3.1\Exercise Data Types and Variables.dll
+E:\C# Videos\Exercise\Exercise Data Types and Variables\Exercise Data Types and Variables\bin\Debug\netcoreapp3.1\Exercise Data Types and Variables.pdb
+E:\C# Videos\Exercise\Exercise Data Types and Variables\Exercise Data Types and Variables\obj\Debug\netcoreapp3.1\Exercise Data Types and Variables.csprojAssemblyReference.cache
+E:\C# Videos\Exercise\Exercise Data Types and Variables\Exercise Data Types and Variables\obj\Debug\netcoreapp3.1\Exercise Data Types and Variables.AssemblyInfoInputs.cache
+E:\C# Videos\Exercise\Exercise Data Types and Variables\Exercise Data Types and Variables\obj\Debug\netcoreapp3.1\Exercise Data Types and Variables.AssemblyInfo.cs
+E:\C# Videos\Exercise\Exercise Data Types and Variables\Exercise Data Types and Variables\obj\Debug\netcoreapp3.1\Exercise Data Types and Variables.csproj.CoreCompileInputs.cache
+E:\C# Videos\Exercise\Exercise Data Types and Variables\Exercise Data Types and Variables\obj\Debug\netcoreapp3.1\Exercise Data Types and Variables.dll
+E:\C# Videos\Exercise\Exercise Data Types and Variables\Exercise Data Types and Variables\obj\Debug\netcoreapp3.1\Exercise Data Types and Variables.pdb
+E:\C# Videos\Exercise\Exercise Data Types and Variables\Exercise Data Types and Variables\obj\Debug\netcoreapp3.1\Exercise Data Types and Variables.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+E:\C# Videos\Exercise\Exercise Data Types and Variables\WaterOverflow\bin\Debug\netcoreapp3.1\WaterOverflow.exe
+E:\C# Videos\Exercise\Exercise Data Types and Variables\WaterOverflow\bin\Debug\netcoreapp3.1\WaterOverflow.deps.json
+E:\C# Videos\Exercise\Exercise Data Types and Variables\WaterOverflow\bin\Debug\netcoreapp3.1\WaterOverflow.runtimeconfig.json
+E:\C# Videos\Exercise\Exercise Data Types and Variables\WaterOverflow\bin\Debug\netcoreapp3.1\WaterOverflow.runtimeconfig.dev.json
+E:\C# Videos\Exercise\Exercise Data Types and Variables\WaterOverflow\bin\Debug\netcoreapp3.1\WaterOverflow.dll
+E:\C# Videos\Exercise\Exercise Data Types and Variables\WaterOverflow\bin\Debug\netcoreapp3.1\WaterOverflow.pdb
+E:\C# Videos\Exercise\Exercise Data Types and Variables\WaterOverflow\obj\Debug\netcoreapp3.1\WaterOverflow.csprojAssemblyReference.cache
+E:\C# Videos\Exercise\Exercise Data Types and Variables\WaterOverflow\obj\Debug\netcoreapp3.1\WaterOverflow.AssemblyInfoInputs.cache
+E:\C# Videos\Exercise\Exercise Data Types and Variables\WaterOverflow\obj\Debug\netcoreapp3.1\WaterOverflow.AssemblyInfo.cs
+E:\C# Videos\Exercise\Exercise Data Types and Variables\WaterOverflow\obj\Debug\netcoreapp3.1\WaterOverflow.csproj.CoreCompileInputs.cache
+E:\C# Videos\Exercise\Exercise Data Types and Variables\WaterOverflow\obj\Debug\netcoreapp3.1\WaterOverflow.dll
+E:\C# Videos\Exercise\Exercise Data Types and Variables\WaterOverflow\obj\Debug\netcoreapp3.1\WaterOverflow.pdb
+E:\C# Videos\Exercise\Exercise Data Types and Variables\WaterOverflow\obj\Debug\netcoreapp3.1\WaterOverflow.genruntimeconfig.cache

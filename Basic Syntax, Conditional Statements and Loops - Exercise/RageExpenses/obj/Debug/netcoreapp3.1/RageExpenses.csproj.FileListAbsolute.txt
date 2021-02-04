@@ -1,0 +1,13 @@
+E:\C# Videos\Exercise\Basic Syntax, Conditional Statements and Loops - Exercise\RageExpenses\bin\Debug\netcoreapp3.1\RageExpenses.exe
+E:\C# Videos\Exercise\Basic Syntax, Conditional Statements and Loops - Exercise\RageExpenses\bin\Debug\netcoreapp3.1\RageExpenses.deps.json
+E:\C# Videos\Exercise\Basic Syntax, Conditional Statements and Loops - Exercise\RageExpenses\bin\Debug\netcoreapp3.1\RageExpenses.runtimeconfig.json
+E:\C# Videos\Exercise\Basic Syntax, Conditional Statements and Loops - Exercise\RageExpenses\bin\Debug\netcoreapp3.1\RageExpenses.runtimeconfig.dev.json
+E:\C# Videos\Exercise\Basic Syntax, Conditional Statements and Loops - Exercise\RageExpenses\bin\Debug\netcoreapp3.1\RageExpenses.dll
+E:\C# Videos\Exercise\Basic Syntax, Conditional Statements and Loops - Exercise\RageExpenses\bin\Debug\netcoreapp3.1\RageExpenses.pdb
+E:\C# Videos\Exercise\Basic Syntax, Conditional Statements and Loops - Exercise\RageExpenses\obj\Debug\netcoreapp3.1\RageExpenses.csprojAssemblyReference.cache
+E:\C# Videos\Exercise\Basic Syntax, Conditional Statements and Loops - Exercise\RageExpenses\obj\Debug\netcoreapp3.1\RageExpenses.AssemblyInfoInputs.cache
+E:\C# Videos\Exercise\Basic Syntax, Conditional Statements and Loops - Exercise\RageExpenses\obj\Debug\netcoreapp3.1\RageExpenses.AssemblyInfo.cs
+E:\C# Videos\Exercise\Basic Syntax, Conditional Statements and Loops - Exercise\RageExpenses\obj\Debug\netcoreapp3.1\RageExpenses.csproj.CoreCompileInputs.cache
+E:\C# Videos\Exercise\Basic Syntax, Conditional Statements and Loops - Exercise\RageExpenses\obj\Debug\netcoreapp3.1\RageExpenses.dll
+E:\C# Videos\Exercise\Basic Syntax, Conditional Statements and Loops - Exercise\RageExpenses\obj\Debug\netcoreapp3.1\RageExpenses.pdb
+E:\C# Videos\Exercise\Basic Syntax, Conditional Statements and Loops - Exercise\RageExpenses\obj\Debug\netcoreapp3.1\RageExpenses.genruntimeconfig.cache

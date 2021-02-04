@@ -1,0 +1,13 @@
+E:\C# Videos\Exercise\ArraysExercise\TopIntegers2\bin\Debug\netcoreapp3.1\TopIntegers2.exe
+E:\C# Videos\Exercise\ArraysExercise\TopIntegers2\bin\Debug\netcoreapp3.1\TopIntegers2.deps.json
+E:\C# Videos\Exercise\ArraysExercise\TopIntegers2\bin\Debug\netcoreapp3.1\TopIntegers2.runtimeconfig.json
+E:\C# Videos\Exercise\ArraysExercise\TopIntegers2\bin\Debug\netcoreapp3.1\TopIntegers2.runtimeconfig.dev.json
+E:\C# Videos\Exercise\ArraysExercise\TopIntegers2\bin\Debug\netcoreapp3.1\TopIntegers2.dll
+E:\C# Videos\Exercise\ArraysExercise\TopIntegers2\bin\Debug\netcoreapp3.1\TopIntegers2.pdb
+E:\C# Videos\Exercise\ArraysExercise\TopIntegers2\obj\Debug\netcoreapp3.1\TopIntegers2.AssemblyInfoInputs.cache
+E:\C# Videos\Exercise\ArraysExercise\TopIntegers2\obj\Debug\netcoreapp3.1\TopIntegers2.AssemblyInfo.cs
+E:\C# Videos\Exercise\ArraysExercise\TopIntegers2\obj\Debug\netcoreapp3.1\TopIntegers2.csproj.CoreCompileInputs.cache
+E:\C# Videos\Exercise\ArraysExercise\TopIntegers2\obj\Debug\netcoreapp3.1\TopIntegers2.dll
+E:\C# Videos\Exercise\ArraysExercise\TopIntegers2\obj\Debug\netcoreapp3.1\TopIntegers2.pdb
+E:\C# Videos\Exercise\ArraysExercise\TopIntegers2\obj\Debug\netcoreapp3.1\TopIntegers2.genruntimeconfig.cache
+E:\C# Videos\Exercise\ArraysExercise\TopIntegers2\obj\Debug\netcoreapp3.1\TopIntegers2.csprojAssemblyReference.cache

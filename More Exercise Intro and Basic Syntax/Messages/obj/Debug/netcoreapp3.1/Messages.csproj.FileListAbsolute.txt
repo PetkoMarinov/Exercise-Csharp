@@ -1,0 +1,13 @@
+E:\C# Videos\Exercise\More Exercise Intro and Basic Syntax\Messages\bin\Debug\netcoreapp3.1\Messages.exe
+E:\C# Videos\Exercise\More Exercise Intro and Basic Syntax\Messages\bin\Debug\netcoreapp3.1\Messages.deps.json
+E:\C# Videos\Exercise\More Exercise Intro and Basic Syntax\Messages\bin\Debug\netcoreapp3.1\Messages.runtimeconfig.json
+E:\C# Videos\Exercise\More Exercise Intro and Basic Syntax\Messages\bin\Debug\netcoreapp3.1\Messages.runtimeconfig.dev.json
+E:\C# Videos\Exercise\More Exercise Intro and Basic Syntax\Messages\bin\Debug\netcoreapp3.1\Messages.dll
+E:\C# Videos\Exercise\More Exercise Intro and Basic Syntax\Messages\bin\Debug\netcoreapp3.1\Messages.pdb
+E:\C# Videos\Exercise\More Exercise Intro and Basic Syntax\Messages\obj\Debug\netcoreapp3.1\Messages.csprojAssemblyReference.cache
+E:\C# Videos\Exercise\More Exercise Intro and Basic Syntax\Messages\obj\Debug\netcoreapp3.1\Messages.AssemblyInfoInputs.cache
+E:\C# Videos\Exercise\More Exercise Intro and Basic Syntax\Messages\obj\Debug\netcoreapp3.1\Messages.AssemblyInfo.cs
+E:\C# Videos\Exercise\More Exercise Intro and Basic Syntax\Messages\obj\Debug\netcoreapp3.1\Messages.csproj.CoreCompileInputs.cache
+E:\C# Videos\Exercise\More Exercise Intro and Basic Syntax\Messages\obj\Debug\netcoreapp3.1\Messages.dll
+E:\C# Videos\Exercise\More Exercise Intro and Basic Syntax\Messages\obj\Debug\netcoreapp3.1\Messages.pdb
+E:\C# Videos\Exercise\More Exercise Intro and Basic Syntax\Messages\obj\Debug\netcoreapp3.1\Messages.genruntimeconfig.cache

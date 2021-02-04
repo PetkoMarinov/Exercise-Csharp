@@ -1,0 +1,13 @@
+E:\C# Videos\Exercise\DataTypesAndVariables More Exercise\DataTypesAndVariables More Exercise\obj\Debug\netcoreapp3.1\DataTypeFinder.csprojAssemblyReference.cache
+E:\C# Videos\Exercise\DataTypesAndVariables More Exercise\DataTypesAndVariables More Exercise\obj\Debug\netcoreapp3.1\DataTypeFinder.AssemblyInfoInputs.cache
+E:\C# Videos\Exercise\DataTypesAndVariables More Exercise\DataTypesAndVariables More Exercise\obj\Debug\netcoreapp3.1\DataTypeFinder.AssemblyInfo.cs
+E:\C# Videos\Exercise\DataTypesAndVariables More Exercise\DataTypesAndVariables More Exercise\obj\Debug\netcoreapp3.1\DataTypeFinder.csproj.CoreCompileInputs.cache
+E:\C# Videos\Exercise\DataTypesAndVariables More Exercise\DataTypesAndVariables More Exercise\bin\Debug\netcoreapp3.1\DataTypeFinder.exe
+E:\C# Videos\Exercise\DataTypesAndVariables More Exercise\DataTypesAndVariables More Exercise\bin\Debug\netcoreapp3.1\DataTypeFinder.deps.json
+E:\C# Videos\Exercise\DataTypesAndVariables More Exercise\DataTypesAndVariables More Exercise\bin\Debug\netcoreapp3.1\DataTypeFinder.runtimeconfig.json
+E:\C# Videos\Exercise\DataTypesAndVariables More Exercise\DataTypesAndVariables More Exercise\bin\Debug\netcoreapp3.1\DataTypeFinder.runtimeconfig.dev.json
+E:\C# Videos\Exercise\DataTypesAndVariables More Exercise\DataTypesAndVariables More Exercise\bin\Debug\netcoreapp3.1\DataTypeFinder.dll
+E:\C# Videos\Exercise\DataTypesAndVariables More Exercise\DataTypesAndVariables More Exercise\bin\Debug\netcoreapp3.1\DataTypeFinder.pdb
+E:\C# Videos\Exercise\DataTypesAndVariables More Exercise\DataTypesAndVariables More Exercise\obj\Debug\netcoreapp3.1\DataTypeFinder.dll
+E:\C# Videos\Exercise\DataTypesAndVariables More Exercise\DataTypesAndVariables More Exercise\obj\Debug\netcoreapp3.1\DataTypeFinder.pdb
+E:\C# Videos\Exercise\DataTypesAndVariables More Exercise\DataTypesAndVariables More Exercise\obj\Debug\netcoreapp3.1\DataTypeFinder.genruntimeconfig.cache

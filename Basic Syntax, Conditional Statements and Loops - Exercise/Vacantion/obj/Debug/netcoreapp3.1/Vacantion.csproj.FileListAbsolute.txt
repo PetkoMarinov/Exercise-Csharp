@@ -1,0 +1,13 @@
+E:\C# Videos\Exercise\Basic Syntax, Conditional Statements and Loops - Exercise\Vacantion\bin\Debug\netcoreapp3.1\Vacantion.exe
+E:\C# Videos\Exercise\Basic Syntax, Conditional Statements and Loops - Exercise\Vacantion\bin\Debug\netcoreapp3.1\Vacantion.deps.json
+E:\C# Videos\Exercise\Basic Syntax, Conditional Statements and Loops - Exercise\Vacantion\bin\Debug\netcoreapp3.1\Vacantion.runtimeconfig.json
+E:\C# Videos\Exercise\Basic Syntax, Conditional Statements and Loops - Exercise\Vacantion\bin\Debug\netcoreapp3.1\Vacantion.runtimeconfig.dev.json
+E:\C# Videos\Exercise\Basic Syntax, Conditional Statements and Loops - Exercise\Vacantion\bin\Debug\netcoreapp3.1\Vacantion.dll
+E:\C# Videos\Exercise\Basic Syntax, Conditional Statements and Loops - Exercise\Vacantion\bin\Debug\netcoreapp3.1\Vacantion.pdb
+E:\C# Videos\Exercise\Basic Syntax, Conditional Statements and Loops - Exercise\Vacantion\obj\Debug\netcoreapp3.1\Vacantion.csprojAssemblyReference.cache
+E:\C# Videos\Exercise\Basic Syntax, Conditional Statements and Loops - Exercise\Vacantion\obj\Debug\netcoreapp3.1\Vacantion.AssemblyInfoInputs.cache
+E:\C# Videos\Exercise\Basic Syntax, Conditional Statements and Loops - Exercise\Vacantion\obj\Debug\netcoreapp3.1\Vacantion.AssemblyInfo.cs
+E:\C# Videos\Exercise\Basic Syntax, Conditional Statements and Loops - Exercise\Vacantion\obj\Debug\netcoreapp3.1\Vacantion.csproj.CoreCompileInputs.cache
+E:\C# Videos\Exercise\Basic Syntax, Conditional Statements and Loops - Exercise\Vacantion\obj\Debug\netcoreapp3.1\Vacantion.dll
+E:\C# Videos\Exercise\Basic Syntax, Conditional Statements and Loops - Exercise\Vacantion\obj\Debug\netcoreapp3.1\Vacantion.pdb
+E:\C# Videos\Exercise\Basic Syntax, Conditional Statements and Loops - Exercise\Vacantion\obj\Debug\netcoreapp3.1\Vacantion.genruntimeconfig.cache

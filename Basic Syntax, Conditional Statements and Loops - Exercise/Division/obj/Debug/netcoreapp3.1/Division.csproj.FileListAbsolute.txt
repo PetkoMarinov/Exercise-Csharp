@@ -1,0 +1,13 @@
+E:\C# Videos\Exercise\Basic Syntax, Conditional Statements and Loops - Exercise\Division\bin\Debug\netcoreapp3.1\Division.exe
+E:\C# Videos\Exercise\Basic Syntax, Conditional Statements and Loops - Exercise\Division\bin\Debug\netcoreapp3.1\Division.deps.json
+E:\C# Videos\Exercise\Basic Syntax, Conditional Statements and Loops - Exercise\Division\bin\Debug\netcoreapp3.1\Division.runtimeconfig.json
+E:\C# Videos\Exercise\Basic Syntax, Conditional Statements and Loops - Exercise\Division\bin\Debug\netcoreapp3.1\Division.runtimeconfig.dev.json
+E:\C# Videos\Exercise\Basic Syntax, Conditional Statements and Loops - Exercise\Division\bin\Debug\netcoreapp3.1\Division.dll
+E:\C# Videos\Exercise\Basic Syntax, Conditional Statements and Loops - Exercise\Division\bin\Debug\netcoreapp3.1\Division.pdb
+E:\C# Videos\Exercise\Basic Syntax, Conditional Statements and Loops - Exercise\Division\obj\Debug\netcoreapp3.1\Division.csprojAssemblyReference.cache
+E:\C# Videos\Exercise\Basic Syntax, Conditional Statements and Loops - Exercise\Division\obj\Debug\netcoreapp3.1\Division.AssemblyInfoInputs.cache
+E:\C# Videos\Exercise\Basic Syntax, Conditional Statements and Loops - Exercise\Division\obj\Debug\netcoreapp3.1\Division.AssemblyInfo.cs
+E:\C# Videos\Exercise\Basic Syntax, Conditional Statements and Loops - Exercise\Division\obj\Debug\netcoreapp3.1\Division.csproj.CoreCompileInputs.cache
+E:\C# Videos\Exercise\Basic Syntax, Conditional Statements and Loops - Exercise\Division\obj\Debug\netcoreapp3.1\Division.dll
+E:\C# Videos\Exercise\Basic Syntax, Conditional Statements and Loops - Exercise\Division\obj\Debug\netcoreapp3.1\Division.pdb
+E:\C# Videos\Exercise\Basic Syntax, Conditional Statements and Loops - Exercise\Division\obj\Debug\netcoreapp3.1\Division.genruntimeconfig.cache

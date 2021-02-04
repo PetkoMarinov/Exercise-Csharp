@@ -1,0 +1,13 @@
+E:\C# Videos\Exercise\Arrays\PrintNumbersInReverseOrder\obj\Debug\netcoreapp3.1\PrintNumbersInReverseOrder.csprojAssemblyReference.cache
+E:\C# Videos\Exercise\Arrays\PrintNumbersInReverseOrder\obj\Debug\netcoreapp3.1\PrintNumbersInReverseOrder.AssemblyInfoInputs.cache
+E:\C# Videos\Exercise\Arrays\PrintNumbersInReverseOrder\obj\Debug\netcoreapp3.1\PrintNumbersInReverseOrder.AssemblyInfo.cs
+E:\C# Videos\Exercise\Arrays\PrintNumbersInReverseOrder\obj\Debug\netcoreapp3.1\PrintNumbersInReverseOrder.csproj.CoreCompileInputs.cache
+E:\C# Videos\Exercise\Arrays\PrintNumbersInReverseOrder\bin\Debug\netcoreapp3.1\PrintNumbersInReverseOrder.exe
+E:\C# Videos\Exercise\Arrays\PrintNumbersInReverseOrder\bin\Debug\netcoreapp3.1\PrintNumbersInReverseOrder.deps.json
+E:\C# Videos\Exercise\Arrays\PrintNumbersInReverseOrder\bin\Debug\netcoreapp3.1\PrintNumbersInReverseOrder.runtimeconfig.json
+E:\C# Videos\Exercise\Arrays\PrintNumbersInReverseOrder\bin\Debug\netcoreapp3.1\PrintNumbersInReverseOrder.runtimeconfig.dev.json
+E:\C# Videos\Exercise\Arrays\PrintNumbersInReverseOrder\bin\Debug\netcoreapp3.1\PrintNumbersInReverseOrder.dll
+E:\C# Videos\Exercise\Arrays\PrintNumbersInReverseOrder\bin\Debug\netcoreapp3.1\PrintNumbersInReverseOrder.pdb
+E:\C# Videos\Exercise\Arrays\PrintNumbersInReverseOrder\obj\Debug\netcoreapp3.1\PrintNumbersInReverseOrder.dll
+E:\C# Videos\Exercise\Arrays\PrintNumbersInReverseOrder\obj\Debug\netcoreapp3.1\PrintNumbersInReverseOrder.pdb
+E:\C# Videos\Exercise\Arrays\PrintNumbersInReverseOrder\obj\Debug\netcoreapp3.1\PrintNumbersInReverseOrder.genruntimeconfig.cache

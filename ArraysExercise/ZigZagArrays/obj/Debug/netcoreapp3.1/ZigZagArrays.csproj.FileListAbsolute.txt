@@ -1,0 +1,13 @@
+E:\C# Videos\Exercise\ArraysExercise\ZigZagArrays\bin\Debug\netcoreapp3.1\ZigZagArrays.exe
+E:\C# Videos\Exercise\ArraysExercise\ZigZagArrays\bin\Debug\netcoreapp3.1\ZigZagArrays.deps.json
+E:\C# Videos\Exercise\ArraysExercise\ZigZagArrays\bin\Debug\netcoreapp3.1\ZigZagArrays.runtimeconfig.json
+E:\C# Videos\Exercise\ArraysExercise\ZigZagArrays\bin\Debug\netcoreapp3.1\ZigZagArrays.runtimeconfig.dev.json
+E:\C# Videos\Exercise\ArraysExercise\ZigZagArrays\bin\Debug\netcoreapp3.1\ZigZagArrays.dll
+E:\C# Videos\Exercise\ArraysExercise\ZigZagArrays\bin\Debug\netcoreapp3.1\ZigZagArrays.pdb
+E:\C# Videos\Exercise\ArraysExercise\ZigZagArrays\obj\Debug\netcoreapp3.1\ZigZagArrays.csprojAssemblyReference.cache
+E:\C# Videos\Exercise\ArraysExercise\ZigZagArrays\obj\Debug\netcoreapp3.1\ZigZagArrays.AssemblyInfoInputs.cache
+E:\C# Videos\Exercise\ArraysExercise\ZigZagArrays\obj\Debug\netcoreapp3.1\ZigZagArrays.AssemblyInfo.cs
+E:\C# Videos\Exercise\ArraysExercise\ZigZagArrays\obj\Debug\netcoreapp3.1\ZigZagArrays.csproj.CoreCompileInputs.cache
+E:\C# Videos\Exercise\ArraysExercise\ZigZagArrays\obj\Debug\netcoreapp3.1\ZigZagArrays.dll
+E:\C# Videos\Exercise\ArraysExercise\ZigZagArrays\obj\Debug\netcoreapp3.1\ZigZagArrays.pdb
+E:\C# Videos\Exercise\ArraysExercise\ZigZagArrays\obj\Debug\netcoreapp3.1\ZigZagArrays.genruntimeconfig.cache
