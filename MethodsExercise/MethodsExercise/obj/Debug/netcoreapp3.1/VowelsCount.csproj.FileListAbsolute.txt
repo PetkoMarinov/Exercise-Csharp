@@ -1,0 +1,13 @@
+E:\C# Videos\C-Fundamentals\MethodsExercise\MethodsExercise\obj\Debug\netcoreapp3.1\VowelsCount.csprojAssemblyReference.cache
+E:\C# Videos\C-Fundamentals\MethodsExercise\MethodsExercise\obj\Debug\netcoreapp3.1\VowelsCount.AssemblyInfoInputs.cache
+E:\C# Videos\C-Fundamentals\MethodsExercise\MethodsExercise\obj\Debug\netcoreapp3.1\VowelsCount.AssemblyInfo.cs
+E:\C# Videos\C-Fundamentals\MethodsExercise\MethodsExercise\obj\Debug\netcoreapp3.1\VowelsCount.csproj.CoreCompileInputs.cache
+E:\C# Videos\C-Fundamentals\MethodsExercise\MethodsExercise\bin\Debug\netcoreapp3.1\VowelsCount.exe
+E:\C# Videos\C-Fundamentals\MethodsExercise\MethodsExercise\bin\Debug\netcoreapp3.1\VowelsCount.deps.json
+E:\C# Videos\C-Fundamentals\MethodsExercise\MethodsExercise\bin\Debug\netcoreapp3.1\VowelsCount.runtimeconfig.json
+E:\C# Videos\C-Fundamentals\MethodsExercise\MethodsExercise\bin\Debug\netcoreapp3.1\VowelsCount.runtimeconfig.dev.json
+E:\C# Videos\C-Fundamentals\MethodsExercise\MethodsExercise\bin\Debug\netcoreapp3.1\VowelsCount.dll
+E:\C# Videos\C-Fundamentals\MethodsExercise\MethodsExercise\bin\Debug\netcoreapp3.1\VowelsCount.pdb
+E:\C# Videos\C-Fundamentals\MethodsExercise\MethodsExercise\obj\Debug\netcoreapp3.1\VowelsCount.dll
+E:\C# Videos\C-Fundamentals\MethodsExercise\MethodsExercise\obj\Debug\netcoreapp3.1\VowelsCount.pdb
+E:\C# Videos\C-Fundamentals\MethodsExercise\MethodsExercise\obj\Debug\netcoreapp3.1\VowelsCount.genruntimeconfig.cache
