@@ -8,7 +8,7 @@ namespace MaxSequenceOfEqualElements
         static void Main(string[] args)
         {
             int[] arr = Console.ReadLine().Split().Select(int.Parse).ToArray();
-            int startIndex = -1;
+            int index = -1;
             int counter = 1;
             int tempIndex = -1;
             int tempCounter = 1;
@@ -26,7 +26,7 @@ namespace MaxSequenceOfEqualElements
                 else if (counter<tempCounter)
                 {
                     counter = tempCounter;
-                    startIndex = tempIndex;
+                    index = tempIndex;
                     digit = (arr[i]).ToString();
                 }
                 else
@@ -35,7 +35,7 @@ namespace MaxSequenceOfEqualElements
                 }
             }
 
-            for (int i = 0; i < startIndex; i++)
+            for (int i = 0; i < index; i++)
             {
                 if(arr[i] == arr[i + 1])
                 {
@@ -44,7 +44,7 @@ namespace MaxSequenceOfEqualElements
                 }
                 else if (counter == tempCounter)
                 {
-                    startIndex = tempIndex;
+                    index = tempIndex;
                     digit = (arr[i]).ToString();
                 }
                 else
@@ -53,8 +53,28 @@ namespace MaxSequenceOfEqualElements
                 }
             }
 
-
-           
+            if (index>-1)
+            {
+                
+                for (int i = 0; i < index; i++)
+			    {
+                    if (arr[i] == arr[i + 1])
+                    {
+                        tempCounter++;
+                        tempIndex = i - tempCounter + 2;
+                    }
+                    else if (counter<tempCounter)
+                    {
+                        counter = tempCounter;
+                        index = tempIndex;
+                        digit = (arr[i]).ToString();
+                    }
+                    else
+                    {
+                        tempCounter = 1;
+                    }
+			    }
+            }
         }
     }
 }

@@ -1,0 +1,13 @@
+E:\C# Videos\C-Fundamentals\ArraysExercise\MaxSequenceEqualElements\bin\Debug\netcoreapp3.1\MaxSequenceEqualElements.exe
+E:\C# Videos\C-Fundamentals\ArraysExercise\MaxSequenceEqualElements\bin\Debug\netcoreapp3.1\MaxSequenceEqualElements.deps.json
+E:\C# Videos\C-Fundamentals\ArraysExercise\MaxSequenceEqualElements\bin\Debug\netcoreapp3.1\MaxSequenceEqualElements.runtimeconfig.json
+E:\C# Videos\C-Fundamentals\ArraysExercise\MaxSequenceEqualElements\bin\Debug\netcoreapp3.1\MaxSequenceEqualElements.runtimeconfig.dev.json
+E:\C# Videos\C-Fundamentals\ArraysExercise\MaxSequenceEqualElements\bin\Debug\netcoreapp3.1\MaxSequenceEqualElements.dll
+E:\C# Videos\C-Fundamentals\ArraysExercise\MaxSequenceEqualElements\bin\Debug\netcoreapp3.1\MaxSequenceEqualElements.pdb
+E:\C# Videos\C-Fundamentals\ArraysExercise\MaxSequenceEqualElements\obj\Debug\netcoreapp3.1\MaxSequenceEqualElements.csprojAssemblyReference.cache
+E:\C# Videos\C-Fundamentals\ArraysExercise\MaxSequenceEqualElements\obj\Debug\netcoreapp3.1\MaxSequenceEqualElements.AssemblyInfoInputs.cache
+E:\C# Videos\C-Fundamentals\ArraysExercise\MaxSequenceEqualElements\obj\Debug\netcoreapp3.1\MaxSequenceEqualElements.AssemblyInfo.cs
+E:\C# Videos\C-Fundamentals\ArraysExercise\MaxSequenceEqualElements\obj\Debug\netcoreapp3.1\MaxSequenceEqualElements.csproj.CoreCompileInputs.cache
+E:\C# Videos\C-Fundamentals\ArraysExercise\MaxSequenceEqualElements\obj\Debug\netcoreapp3.1\MaxSequenceEqualElements.dll
+E:\C# Videos\C-Fundamentals\ArraysExercise\MaxSequenceEqualElements\obj\Debug\netcoreapp3.1\MaxSequenceEqualElements.pdb
+E:\C# Videos\C-Fundamentals\ArraysExercise\MaxSequenceEqualElements\obj\Debug\netcoreapp3.1\MaxSequenceEqualElements.genruntimeconfig.cache
