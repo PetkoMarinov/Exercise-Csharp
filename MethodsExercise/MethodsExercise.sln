@@ -3,9 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VowelsCount", "MethodsExercise\VowelsCount.csproj", "{8BA3E90A-2D11-4C6E-BF94-12CE69D2D9B0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VowelsCount", "MethodsExercise\VowelsCount.csproj", "{8BA3E90A-2D11-4C6E-BF94-12CE69D2D9B0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CharactersInRange", "CharactersInRange\CharactersInRange.csproj", "{8E4D6FD9-D25A-472F-B373-99F4D02AC262}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CharactersInRange", "CharactersInRange\CharactersInRange.csproj", "{8E4D6FD9-D25A-472F-B373-99F4D02AC262}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PasswordValidator", "PasswordValidator\PasswordValidator.csproj", "{8EE0FDD5-A697-45F8-AF71-E1366CA58F84}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddAndSubtract", "AddAndSubtract\AddAndSubtract.csproj", "{8C7BB37A-A291-47EE-8685-2DD49CC8902D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiddleCharacters", "MiddleCharacters\MiddleCharacters.csproj", "{2FE65593-D187-4F61-BF6D-27392D18F6D9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +27,18 @@ Global
 		{8E4D6FD9-D25A-472F-B373-99F4D02AC262}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8E4D6FD9-D25A-472F-B373-99F4D02AC262}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8E4D6FD9-D25A-472F-B373-99F4D02AC262}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EE0FDD5-A697-45F8-AF71-E1366CA58F84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EE0FDD5-A697-45F8-AF71-E1366CA58F84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EE0FDD5-A697-45F8-AF71-E1366CA58F84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EE0FDD5-A697-45F8-AF71-E1366CA58F84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C7BB37A-A291-47EE-8685-2DD49CC8902D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C7BB37A-A291-47EE-8685-2DD49CC8902D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C7BB37A-A291-47EE-8685-2DD49CC8902D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C7BB37A-A291-47EE-8685-2DD49CC8902D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FE65593-D187-4F61-BF6D-27392D18F6D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FE65593-D187-4F61-BF6D-27392D18F6D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FE65593-D187-4F61-BF6D-27392D18F6D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FE65593-D187-4F61-BF6D-27392D18F6D9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

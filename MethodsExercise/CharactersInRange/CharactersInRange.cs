@@ -8,19 +8,21 @@ namespace CharactersInRange
         {
             char start = char.Parse(Console.ReadLine());
             char end = char.Parse(Console.ReadLine());
-            
+
+            if (end < start)
+            {
+                char temp = start;
+                start = end;
+                end = temp;
+            }
             PrintCharactersInRange(start, end);
         }
 
         static void PrintCharactersInRange(char start, char end)
         {
-            for (char i = start; i < end; i++)
+            for (int i = start + 1; i < end; i++)
             {
-                if (i==start)
-                {
-                    continue;
-                }
-                Console.Write(i + " ");
+                Console.Write((char)i + " ");
             }
         }
     }

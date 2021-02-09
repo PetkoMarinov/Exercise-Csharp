@@ -1,0 +1,13 @@
+E:\C# Videos\C-Fundamentals\MethodsExercise\AddAndSubtract\bin\Debug\netcoreapp3.1\AddAndSubtract.exe
+E:\C# Videos\C-Fundamentals\MethodsExercise\AddAndSubtract\bin\Debug\netcoreapp3.1\AddAndSubtract.deps.json
+E:\C# Videos\C-Fundamentals\MethodsExercise\AddAndSubtract\bin\Debug\netcoreapp3.1\AddAndSubtract.runtimeconfig.json
+E:\C# Videos\C-Fundamentals\MethodsExercise\AddAndSubtract\bin\Debug\netcoreapp3.1\AddAndSubtract.runtimeconfig.dev.json
+E:\C# Videos\C-Fundamentals\MethodsExercise\AddAndSubtract\bin\Debug\netcoreapp3.1\AddAndSubtract.dll
+E:\C# Videos\C-Fundamentals\MethodsExercise\AddAndSubtract\bin\Debug\netcoreapp3.1\AddAndSubtract.pdb
+E:\C# Videos\C-Fundamentals\MethodsExercise\AddAndSubtract\obj\Debug\netcoreapp3.1\AddAndSubtract.csprojAssemblyReference.cache
+E:\C# Videos\C-Fundamentals\MethodsExercise\AddAndSubtract\obj\Debug\netcoreapp3.1\AddAndSubtract.AssemblyInfoInputs.cache
+E:\C# Videos\C-Fundamentals\MethodsExercise\AddAndSubtract\obj\Debug\netcoreapp3.1\AddAndSubtract.AssemblyInfo.cs
+E:\C# Videos\C-Fundamentals\MethodsExercise\AddAndSubtract\obj\Debug\netcoreapp3.1\AddAndSubtract.csproj.CoreCompileInputs.cache
+E:\C# Videos\C-Fundamentals\MethodsExercise\AddAndSubtract\obj\Debug\netcoreapp3.1\AddAndSubtract.dll
+E:\C# Videos\C-Fundamentals\MethodsExercise\AddAndSubtract\obj\Debug\netcoreapp3.1\AddAndSubtract.pdb
+E:\C# Videos\C-Fundamentals\MethodsExercise\AddAndSubtract\obj\Debug\netcoreapp3.1\AddAndSubtract.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+E:\C# Videos\C-Fundamentals\MethodsExercise\MiddleCharacters\bin\Debug\netcoreapp3.1\MiddleCharacters.exe
+E:\C# Videos\C-Fundamentals\MethodsExercise\MiddleCharacters\bin\Debug\netcoreapp3.1\MiddleCharacters.deps.json
+E:\C# Videos\C-Fundamentals\MethodsExercise\MiddleCharacters\bin\Debug\netcoreapp3.1\MiddleCharacters.runtimeconfig.json
+E:\C# Videos\C-Fundamentals\MethodsExercise\MiddleCharacters\bin\Debug\netcoreapp3.1\MiddleCharacters.runtimeconfig.dev.json
+E:\C# Videos\C-Fundamentals\MethodsExercise\MiddleCharacters\bin\Debug\netcoreapp3.1\MiddleCharacters.dll
+E:\C# Videos\C-Fundamentals\MethodsExercise\MiddleCharacters\bin\Debug\netcoreapp3.1\MiddleCharacters.pdb
+E:\C# Videos\C-Fundamentals\MethodsExercise\MiddleCharacters\obj\Debug\netcoreapp3.1\MiddleCharacters.AssemblyInfoInputs.cache
+E:\C# Videos\C-Fundamentals\MethodsExercise\MiddleCharacters\obj\Debug\netcoreapp3.1\MiddleCharacters.AssemblyInfo.cs
+E:\C# Videos\C-Fundamentals\MethodsExercise\MiddleCharacters\obj\Debug\netcoreapp3.1\MiddleCharacters.csproj.CoreCompileInputs.cache
+E:\C# Videos\C-Fundamentals\MethodsExercise\MiddleCharacters\obj\Debug\netcoreapp3.1\MiddleCharacters.dll
+E:\C# Videos\C-Fundamentals\MethodsExercise\MiddleCharacters\obj\Debug\netcoreapp3.1\MiddleCharacters.pdb
+E:\C# Videos\C-Fundamentals\MethodsExercise\MiddleCharacters\obj\Debug\netcoreapp3.1\MiddleCharacters.genruntimeconfig.cache
+E:\C# Videos\C-Fundamentals\MethodsExercise\MiddleCharacters\obj\Debug\netcoreapp3.1\MiddleCharacters.csprojAssemblyReference.cache
