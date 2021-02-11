@@ -13,7 +13,6 @@ namespace PalindromeIntegers
                 Console.WriteLine(IsPalindrome(input));
                 input = Console.ReadLine();
             }
-
         }
 
         static bool IsPalindrome(string inputStr)
@@ -22,7 +21,7 @@ namespace PalindromeIntegers
 
             for (int i = 0; i < temp.Length / 2; i++)
             {
-                if (temp[i] != temp[temp.Length - 1])
+                if (temp[i] != temp[temp.Length - 1 - i])
                 {
                     return false;
                 }
