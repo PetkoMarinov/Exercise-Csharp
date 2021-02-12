@@ -1,0 +1,13 @@
+E:\C# Videos\C-Fundamentals\ListsExercise\ListsExercise\bin\Debug\netcoreapp3.1\Train.exe
+E:\C# Videos\C-Fundamentals\ListsExercise\ListsExercise\bin\Debug\netcoreapp3.1\Train.deps.json
+E:\C# Videos\C-Fundamentals\ListsExercise\ListsExercise\bin\Debug\netcoreapp3.1\Train.runtimeconfig.json
+E:\C# Videos\C-Fundamentals\ListsExercise\ListsExercise\bin\Debug\netcoreapp3.1\Train.runtimeconfig.dev.json
+E:\C# Videos\C-Fundamentals\ListsExercise\ListsExercise\bin\Debug\netcoreapp3.1\Train.dll
+E:\C# Videos\C-Fundamentals\ListsExercise\ListsExercise\bin\Debug\netcoreapp3.1\Train.pdb
+E:\C# Videos\C-Fundamentals\ListsExercise\ListsExercise\obj\Debug\netcoreapp3.1\Train.csprojAssemblyReference.cache
+E:\C# Videos\C-Fundamentals\ListsExercise\ListsExercise\obj\Debug\netcoreapp3.1\Train.AssemblyInfoInputs.cache
+E:\C# Videos\C-Fundamentals\ListsExercise\ListsExercise\obj\Debug\netcoreapp3.1\Train.AssemblyInfo.cs
+E:\C# Videos\C-Fundamentals\ListsExercise\ListsExercise\obj\Debug\netcoreapp3.1\Train.csproj.CoreCompileInputs.cache
+E:\C# Videos\C-Fundamentals\ListsExercise\ListsExercise\obj\Debug\netcoreapp3.1\Train.dll
+E:\C# Videos\C-Fundamentals\ListsExercise\ListsExercise\obj\Debug\netcoreapp3.1\Train.pdb
+E:\C# Videos\C-Fundamentals\ListsExercise\ListsExercise\obj\Debug\netcoreapp3.1\Train.genruntimeconfig.cache
