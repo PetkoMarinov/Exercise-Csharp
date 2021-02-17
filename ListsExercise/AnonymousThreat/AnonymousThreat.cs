@@ -1,61 +1,85 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Linq;
+using System.Collections.Generic;
 
-namespace AnonymousThreat
+namespace Anonymous_Threat
 {
-    class AnonymousThreat
+    class Program
     {
         static void Main(string[] args)
         {
             List<string> input = Console.ReadLine().Split().ToList();
-            string inputCommand = Console.ReadLine().ToLower();
 
-            while (inputCommand != "3:1")
+            while (true)
             {
-                string[] command = inputCommand.Split(" ");
-                int startIndex = int.Parse(command[1]);
-                int endIndex = int.Parse(command[2]);
+                string[] comand = Console.ReadLine().Split().ToArray();
 
-                if (startIndex < 0)
+                if (comand[0] == "3:1")
                 {
-                    startIndex = 0;
+                    Console.Write(string.Join(" ", input));
+                    break;
                 }
 
-                if (startIndex > input.Count - 1)
+                else if (comand[0] == "merge")
                 {
-                    startIndex = input.Count - 1;
+                    int startIndex = int.Parse(comand[1]);
+                    int endIndex = int.Parse(comand[2]);
+                    Merge(input, startIndex, endIndex);
                 }
-
-                if (command[0] == "merge")
+                else if (comand[0] == "divide")
                 {
-                    if (endIndex > input.Count - 1)
-                    {
-                        endIndex = input.Count - 1;
-                    }
-
-                    for (int i = 0; i < (endIndex - startIndex); i++)
-                    {
-                        input[startIndex] += input[startIndex + 1];
-                        input.RemoveAt(startIndex + 1);
-                    }
+                    int index = int.Parse(comand[1]);
+                    int partitions = int.Parse(comand[2]);
+                    Divide(input, index, partitions);
                 }
-                else if (command[0] == "divide")
-                {
-                    int newIndexLength = input[startIndex].Length % int.Parse(command[2]);
-                    string temp = input[startIndex];
-
-                    for (int i = 0; i < newIndexLength; i++)
-                    {
-                        if (itemlength % int.Parse(command[2]) == 0)
-                        {
-                            input[startIndex] += input[startIndex + 1];
-                            input.RemoveAt(startIndex + 1);
-                        }
-                    }
-                }
-                inputCommand = Console.ReadLine().ToLower();
             }
+        }
+
+        static void Merge(List<string> input, int startIndex, int endIndex)
+        {
+            if (startIndex < 0)
+            {
+                startIndex = 0;
+            }
+            if (endIndex > input.Count - 1)
+            {
+                endIndex = input.Count - 1;
+            }
+
+            for (int j = startIndex + 1; j <= endIndex; j++)
+            {
+                input[startIndex] += input[startIndex + 1];
+                input.RemoveAt(startIndex + 1);
+            }
+        }
+
+        static void Divide(List<string> input, int index, int partitions)
+        {
+            string partitionData = input[index];
+            input.RemoveAt(index);
+            int partSize = partitionData.Length / partitions;
+            int reminder = partitionData.Length % partitions;
+
+            List<string> tmpData = new List<string>();
+
+            for (int i = 0; i < partitions; i++)
+            {
+                string tmpString = null;
+
+                for (int p = 0; p < partSize; p++)
+                {
+                    tmpString += partitionData[(i * partSize) + p];
+                }
+
+                if (i == partitions - 1 && reminder != 0)
+                {
+                    tmpString += partitionData.Substring(partitionData.Length - reminder);
+                }
+
+                tmpData.Add(tmpString);
+            }
+
+            input.InsertRange(index, tmpData);
         }
     }
 }

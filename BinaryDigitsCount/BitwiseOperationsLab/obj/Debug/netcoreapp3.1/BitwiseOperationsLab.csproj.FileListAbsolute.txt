@@ -1,0 +1,13 @@
+E:\C# Videos\C-Fundamentals\BinaryDigitsCount\BitwiseOperationsLab\bin\Debug\netcoreapp3.1\BitwiseOperationsLab.exe
+E:\C# Videos\C-Fundamentals\BinaryDigitsCount\BitwiseOperationsLab\bin\Debug\netcoreapp3.1\BitwiseOperationsLab.deps.json
+E:\C# Videos\C-Fundamentals\BinaryDigitsCount\BitwiseOperationsLab\bin\Debug\netcoreapp3.1\BitwiseOperationsLab.runtimeconfig.json
+E:\C# Videos\C-Fundamentals\BinaryDigitsCount\BitwiseOperationsLab\bin\Debug\netcoreapp3.1\BitwiseOperationsLab.runtimeconfig.dev.json
+E:\C# Videos\C-Fundamentals\BinaryDigitsCount\BitwiseOperationsLab\bin\Debug\netcoreapp3.1\BitwiseOperationsLab.dll
+E:\C# Videos\C-Fundamentals\BinaryDigitsCount\BitwiseOperationsLab\bin\Debug\netcoreapp3.1\BitwiseOperationsLab.pdb
+E:\C# Videos\C-Fundamentals\BinaryDigitsCount\BitwiseOperationsLab\obj\Debug\netcoreapp3.1\BitwiseOperationsLab.csprojAssemblyReference.cache
+E:\C# Videos\C-Fundamentals\BinaryDigitsCount\BitwiseOperationsLab\obj\Debug\netcoreapp3.1\BitwiseOperationsLab.AssemblyInfoInputs.cache
+E:\C# Videos\C-Fundamentals\BinaryDigitsCount\BitwiseOperationsLab\obj\Debug\netcoreapp3.1\BitwiseOperationsLab.AssemblyInfo.cs
+E:\C# Videos\C-Fundamentals\BinaryDigitsCount\BitwiseOperationsLab\obj\Debug\netcoreapp3.1\BitwiseOperationsLab.csproj.CoreCompileInputs.cache
+E:\C# Videos\C-Fundamentals\BinaryDigitsCount\BitwiseOperationsLab\obj\Debug\netcoreapp3.1\BitwiseOperationsLab.dll
+E:\C# Videos\C-Fundamentals\BinaryDigitsCount\BitwiseOperationsLab\obj\Debug\netcoreapp3.1\BitwiseOperationsLab.pdb
+E:\C# Videos\C-Fundamentals\BinaryDigitsCount\BitwiseOperationsLab\obj\Debug\netcoreapp3.1\BitwiseOperationsLab.genruntimeconfig.cache
