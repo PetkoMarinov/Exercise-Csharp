@@ -1,0 +1,13 @@
+E:\C# Videos\C-Fundamentals\ListsExercise\SoftUniCoursePlanning\obj\Debug\netcoreapp3.1\SoftUniCoursePlanning.csprojAssemblyReference.cache
+E:\C# Videos\C-Fundamentals\ListsExercise\SoftUniCoursePlanning\obj\Debug\netcoreapp3.1\SoftUniCoursePlanning.AssemblyInfoInputs.cache
+E:\C# Videos\C-Fundamentals\ListsExercise\SoftUniCoursePlanning\obj\Debug\netcoreapp3.1\SoftUniCoursePlanning.AssemblyInfo.cs
+E:\C# Videos\C-Fundamentals\ListsExercise\SoftUniCoursePlanning\obj\Debug\netcoreapp3.1\SoftUniCoursePlanning.csproj.CoreCompileInputs.cache
+E:\C# Videos\C-Fundamentals\ListsExercise\SoftUniCoursePlanning\bin\Debug\netcoreapp3.1\SoftUniCoursePlanning.exe
+E:\C# Videos\C-Fundamentals\ListsExercise\SoftUniCoursePlanning\bin\Debug\netcoreapp3.1\SoftUniCoursePlanning.deps.json
+E:\C# Videos\C-Fundamentals\ListsExercise\SoftUniCoursePlanning\bin\Debug\netcoreapp3.1\SoftUniCoursePlanning.runtimeconfig.json
+E:\C# Videos\C-Fundamentals\ListsExercise\SoftUniCoursePlanning\bin\Debug\netcoreapp3.1\SoftUniCoursePlanning.runtimeconfig.dev.json
+E:\C# Videos\C-Fundamentals\ListsExercise\SoftUniCoursePlanning\bin\Debug\netcoreapp3.1\SoftUniCoursePlanning.dll
+E:\C# Videos\C-Fundamentals\ListsExercise\SoftUniCoursePlanning\bin\Debug\netcoreapp3.1\SoftUniCoursePlanning.pdb
+E:\C# Videos\C-Fundamentals\ListsExercise\SoftUniCoursePlanning\obj\Debug\netcoreapp3.1\SoftUniCoursePlanning.dll
+E:\C# Videos\C-Fundamentals\ListsExercise\SoftUniCoursePlanning\obj\Debug\netcoreapp3.1\SoftUniCoursePlanning.pdb
+E:\C# Videos\C-Fundamentals\ListsExercise\SoftUniCoursePlanning\obj\Debug\netcoreapp3.1\SoftUniCoursePlanning.genruntimeconfig.cache
