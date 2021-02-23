@@ -7,21 +7,25 @@ namespace ExerciseObjectsАndClasses
     {
         static void Main(string[] args)
         {
-            List<string> phrases = new List<string>
-                {"Excellent product.",
+            string[] phrases = new[]
+            {
+                "Excellent product.",
                 "Such a great product.",
                 "I always use that product.",
                 "Best product of its category.",
                 "Exceptional product.",
-                "I can’t live without this product." };
+                "I can’t live without this product."
+            };
 
-            List<string> events = new List<string>
-                { "Now I feel good.",
+            string[] events = new string[]
+            {
+                "Now I feel good.",
                 "I have succeeded with this product.",
                 "Makes miracles. I am happy of the results!",
                 "I cannot believe but now I feel awesome.",
                 "Try it yourself, I am very satisfied.",
-                "I feel great!" };
+                "I feel great!"
+            };
 
             List<string> authors = new List<string>
                 { "Diana", "Petya", "Stella", "Elena", "Katya", "Iva", "Annie", "Eva" };
@@ -30,9 +34,22 @@ namespace ExerciseObjectsАndClasses
                 { "Burgas", "Sofia", "Plovdiv", "Varna", "Ruse" };
 
             int n = int.Parse(Console.ReadLine());
+            Random rand = new Random();
 
-            Random rand  = new Random();
-            Console.WriteLine(rand.Next(n,);
+            for (int i = 0; i < n; i++)
+            {
+                int phraseIndex = rand.Next(0, phrases.Length);
+                int eventIndex = rand.Next(0, events.Length);
+                int authorIndex = rand.Next(0, authors.Count);
+                int citiesIndex = rand.Next(0, cities.Count);
+                
+                string template = $"{ phrases[phraseIndex] } {events[eventIndex]}" +
+                    $" {authors[authorIndex]} – {cities[citiesIndex]}";
+                
+                Console.WriteLine(template);
+            }
+            
+            
         }
     }
 }
