@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\C# Videos\\C-Fundamentals\\AdvertisementMessage\\ExerciseObjectsАndClasses\\AdvertisementMessage.csproj",
-      "projectName": "AdvertisementMessage",
-      "projectPath": "E:\\C# Videos\\C-Fundamentals\\AdvertisementMessage\\ExerciseObjectsАndClasses\\AdvertisementMessage.csproj",
+      "projectUniqueName": "E:\\C# Videos\\C-Fundamentals\\AdvertisementMessage\\Articles2\\Articles2.csproj",
+      "projectName": "Articles2",
+      "projectPath": "E:\\C# Videos\\C-Fundamentals\\AdvertisementMessage\\Articles2\\Articles2.csproj",
       "packagesPath": "C:\\Users\\сем. Маринови\\.nuget\\packages\\",
-      "outputPath": "E:\\C# Videos\\C-Fundamentals\\AdvertisementMessage\\ExerciseObjectsАndClasses\\obj\\",
+      "outputPath": "E:\\C# Videos\\C-Fundamentals\\AdvertisementMessage\\Articles2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\сем. Маринови\\AppData\\Roaming\\NuGet\\NuGet.Config",

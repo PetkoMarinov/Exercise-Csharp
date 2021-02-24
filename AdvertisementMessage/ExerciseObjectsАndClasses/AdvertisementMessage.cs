@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace ExerciseObjectsАndClasses
 {
-    class Program
+    class AdvertisementMessage
     {
         static void Main(string[] args)
         {
