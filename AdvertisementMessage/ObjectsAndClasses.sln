@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Students", "Students\Studen
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OrderByAge", "OrderByAge\OrderByAge.csproj", "{32EE505A-0EE8-455D-BFC0-E07B4369F286}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VehicleCatalogue", "VehicleCatalogue\VehicleCatalogue.csproj", "{EB69636A-5901-4ABB-9A5D-ECEDB0F99853}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VehicleCatalogue", "VehicleCatalogue\VehicleCatalogue.csproj", "{EB69636A-5901-4ABB-9A5D-ECEDB0F99853}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeamworkProjects", "TeamworkProjects\TeamworkProjects.csproj", "{78B280FF-5AF8-472E-95DC-371C001AE0D0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{EB69636A-5901-4ABB-9A5D-ECEDB0F99853}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EB69636A-5901-4ABB-9A5D-ECEDB0F99853}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EB69636A-5901-4ABB-9A5D-ECEDB0F99853}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78B280FF-5AF8-472E-95DC-371C001AE0D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78B280FF-5AF8-472E-95DC-371C001AE0D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78B280FF-5AF8-472E-95DC-371C001AE0D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78B280FF-5AF8-472E-95DC-371C001AE0D0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
