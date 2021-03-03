@@ -1,0 +1,13 @@
+E:\C# Videos\C-Fundamentals\Numbers\MidExam\bin\Debug\netcoreapp3.1\Numbers.exe
+E:\C# Videos\C-Fundamentals\Numbers\MidExam\bin\Debug\netcoreapp3.1\Numbers.deps.json
+E:\C# Videos\C-Fundamentals\Numbers\MidExam\bin\Debug\netcoreapp3.1\Numbers.runtimeconfig.json
+E:\C# Videos\C-Fundamentals\Numbers\MidExam\bin\Debug\netcoreapp3.1\Numbers.runtimeconfig.dev.json
+E:\C# Videos\C-Fundamentals\Numbers\MidExam\bin\Debug\netcoreapp3.1\Numbers.dll
+E:\C# Videos\C-Fundamentals\Numbers\MidExam\bin\Debug\netcoreapp3.1\Numbers.pdb
+E:\C# Videos\C-Fundamentals\Numbers\MidExam\obj\Debug\netcoreapp3.1\Numbers.csprojAssemblyReference.cache
+E:\C# Videos\C-Fundamentals\Numbers\MidExam\obj\Debug\netcoreapp3.1\Numbers.AssemblyInfoInputs.cache
+E:\C# Videos\C-Fundamentals\Numbers\MidExam\obj\Debug\netcoreapp3.1\Numbers.AssemblyInfo.cs
+E:\C# Videos\C-Fundamentals\Numbers\MidExam\obj\Debug\netcoreapp3.1\Numbers.csproj.CoreCompileInputs.cache
+E:\C# Videos\C-Fundamentals\Numbers\MidExam\obj\Debug\netcoreapp3.1\Numbers.dll
+E:\C# Videos\C-Fundamentals\Numbers\MidExam\obj\Debug\netcoreapp3.1\Numbers.pdb
+E:\C# Videos\C-Fundamentals\Numbers\MidExam\obj\Debug\netcoreapp3.1\Numbers.genruntimeconfig.cache

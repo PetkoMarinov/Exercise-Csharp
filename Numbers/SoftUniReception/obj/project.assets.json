@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\C# Videos\\C-Fundamentals\\Numbers\\MidExam\\Numbers.csproj",
-      "projectName": "Numbers",
-      "projectPath": "E:\\C# Videos\\C-Fundamentals\\Numbers\\MidExam\\Numbers.csproj",
+      "projectUniqueName": "E:\\C# Videos\\C-Fundamentals\\Numbers\\SoftUniReception\\SoftUniReception.csproj",
+      "projectName": "SoftUniReception",
+      "projectPath": "E:\\C# Videos\\C-Fundamentals\\Numbers\\SoftUniReception\\SoftUniReception.csproj",
       "packagesPath": "C:\\Users\\сем. Маринови\\.nuget\\packages\\",
-      "outputPath": "E:\\C# Videos\\C-Fundamentals\\Numbers\\MidExam\\obj\\",
+      "outputPath": "E:\\C# Videos\\C-Fundamentals\\Numbers\\SoftUniReception\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\сем. Маринови\\AppData\\Roaming\\NuGet\\NuGet.Config",
