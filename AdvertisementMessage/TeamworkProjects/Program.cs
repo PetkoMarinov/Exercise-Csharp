@@ -11,26 +11,27 @@ namespace TeamworkTeams
 
         }
 
-        public Team(string user, string team)
+        public Team(string user, string team, List<string> members)
         {
             this.Creator = user;
             this.Name = team;
+            this.Members = members;
         }
 
         public string Creator { get; set; }
 
         public string Name { get; set; }
 
-        public string Member { get; set; }
+        public List<string> Members { get; set; }
     }
 
     class Program
     {
         static void Main(string[] args)
         {
-            int n = int.Parse(Console.ReadLine());
-
             List<Team> teams = new List<Team>();
+
+            int n = int.Parse(Console.ReadLine());
 
             for (int i = 0; i < n; i++)
             {
@@ -39,7 +40,9 @@ namespace TeamworkTeams
                 string creator = teamData.Split("-")[0];
                 string teamName = teamData.Split("-")[1];
 
-                Team team = new Team(creator, teamName);
+                List<string> members = new List<string>();
+
+                Team team = new Team(creator, teamName, members);
 
                 if (TeamExists(teams, teamName))
                 {
@@ -65,25 +68,53 @@ namespace TeamworkTeams
                 string memberName = memberInput.Split("->")[0];
                 string memberTeam = memberInput.Split("->")[1];
 
-                Team members = new Team(memberName,memberTeam);
-
                 if (!TeamExists(teams, memberTeam))
                 {
                     Console.WriteLine($"Team {memberTeam} does not exist!");
                 }
 
-                if (MemberExists(teams,memberName))
+                if (MemberExists(teams, memberName))
                 {
                     Console.WriteLine($"Member {memberName} cannot join team {memberTeam}!");
                 }
 
                 if (TeamExists(teams, memberTeam) && !MemberExists(teams, memberName))
                 {
-                    int creatorIndex = teams.FindIndex(i => i.Name == memberTeam);
-                    teams[creatorIndex].Member = memberName;
+                    int teamIndex = teams.FindIndex(team => team.Name == memberTeam);
+                    teams[teamIndex].Members.Add(memberName);
                 }
 
                 memberInput = Console.ReadLine();
+            }
+
+            List<Team> teamsToDisband = teams
+                    .OrderBy(x => x.Name)
+                    .Where(x => x.Members.Count == 0)
+                    .ToList();
+
+            teams = teams
+                    .OrderByDescending(x => x.Members.Count)
+                    .ThenBy(x => x.Name)
+                    .Where(x => x.Members.Count > 0)
+                    .ToList();
+
+            foreach (var team in teams.Where(x => x.Members.Count > 0))
+            {
+                Console.WriteLine($"{team.Name}");
+                Console.WriteLine($"- {team.Creator}");
+                team.Members.Sort();
+
+                foreach (var member in team.Members)
+                {
+                    Console.WriteLine($"-- {member}");
+                }
+            }
+
+            Console.WriteLine("Teams to disband:");
+
+            foreach (var disbanded in teamsToDisband)
+            {
+                Console.WriteLine(disbanded.Name);
             }
         }
 
@@ -99,11 +130,11 @@ namespace TeamworkTeams
             return false;
         }
 
-        private static bool CreatorExists(List<Team> teams, string user)
+        private static bool CreatorExists(List<Team> teams, string creator)
         {
             foreach (Team team in teams)
             {
-                if (team.Creator == user)
+                if (team.Creator == creator)
                 {
                     return true;
                 }
@@ -115,7 +146,7 @@ namespace TeamworkTeams
         {
             foreach (Team team in teams)
             {
-                if (team.Member == user || team.Creator==user)
+                if (team.Members.Contains(user) || team.Creator == user)
                 {
                     return true;
                 }
