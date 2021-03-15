@@ -4,11 +4,10 @@ using System.Linq;
 
 namespace LegendaryFarming
 {
-    class Program
+    class LegendaryItems
     {
         static void Main(string[] args)
         {
-
             Dictionary<string, int> legendaryItems = new Dictionary<string, int>
             {
                 { "motes",0 },
@@ -56,7 +55,6 @@ namespace LegendaryFarming
                 }
             }
 
-
             if (winnerItem == "motes")
             {
                 Console.WriteLine("Dragonwrath obtained!");
@@ -77,7 +75,16 @@ namespace LegendaryFarming
 
             foreach (var element in legendaryItems)
             {
+                Console.WriteLine($"{element.Key}: {element.Value}");
+            }
 
+            junkItems = junkItems
+                .OrderBy(x => x.Key)
+                .ToDictionary(x => x.Key, x => x.Value);
+
+            foreach (var element in junkItems)
+            {
+                Console.WriteLine($"{element.Key}: {element.Value}");
             }
 
         }
