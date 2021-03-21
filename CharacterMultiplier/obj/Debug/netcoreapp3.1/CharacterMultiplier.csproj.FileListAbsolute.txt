@@ -1,0 +1,13 @@
+E:\C# Videos\C-Fundamentals\CharacterMultiplier\bin\Debug\netcoreapp3.1\CharacterMultiplier.exe
+E:\C# Videos\C-Fundamentals\CharacterMultiplier\bin\Debug\netcoreapp3.1\CharacterMultiplier.deps.json
+E:\C# Videos\C-Fundamentals\CharacterMultiplier\bin\Debug\netcoreapp3.1\CharacterMultiplier.runtimeconfig.json
+E:\C# Videos\C-Fundamentals\CharacterMultiplier\bin\Debug\netcoreapp3.1\CharacterMultiplier.runtimeconfig.dev.json
+E:\C# Videos\C-Fundamentals\CharacterMultiplier\bin\Debug\netcoreapp3.1\CharacterMultiplier.dll
+E:\C# Videos\C-Fundamentals\CharacterMultiplier\bin\Debug\netcoreapp3.1\CharacterMultiplier.pdb
+E:\C# Videos\C-Fundamentals\CharacterMultiplier\obj\Debug\netcoreapp3.1\CharacterMultiplier.csprojAssemblyReference.cache
+E:\C# Videos\C-Fundamentals\CharacterMultiplier\obj\Debug\netcoreapp3.1\CharacterMultiplier.AssemblyInfoInputs.cache
+E:\C# Videos\C-Fundamentals\CharacterMultiplier\obj\Debug\netcoreapp3.1\CharacterMultiplier.AssemblyInfo.cs
+E:\C# Videos\C-Fundamentals\CharacterMultiplier\obj\Debug\netcoreapp3.1\CharacterMultiplier.csproj.CoreCompileInputs.cache
+E:\C# Videos\C-Fundamentals\CharacterMultiplier\obj\Debug\netcoreapp3.1\CharacterMultiplier.dll
+E:\C# Videos\C-Fundamentals\CharacterMultiplier\obj\Debug\netcoreapp3.1\CharacterMultiplier.pdb
+E:\C# Videos\C-Fundamentals\CharacterMultiplier\obj\Debug\netcoreapp3.1\CharacterMultiplier.genruntimeconfig.cache
