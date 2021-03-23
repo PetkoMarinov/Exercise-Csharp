@@ -1,0 +1,13 @@
+E:\C# Videos\C-Fundamentals\RegexLab\MatchFullName\bin\Debug\netcoreapp3.1\MatchFullName.exe
+E:\C# Videos\C-Fundamentals\RegexLab\MatchFullName\bin\Debug\netcoreapp3.1\MatchFullName.deps.json
+E:\C# Videos\C-Fundamentals\RegexLab\MatchFullName\bin\Debug\netcoreapp3.1\MatchFullName.runtimeconfig.json
+E:\C# Videos\C-Fundamentals\RegexLab\MatchFullName\bin\Debug\netcoreapp3.1\MatchFullName.runtimeconfig.dev.json
+E:\C# Videos\C-Fundamentals\RegexLab\MatchFullName\bin\Debug\netcoreapp3.1\MatchFullName.dll
+E:\C# Videos\C-Fundamentals\RegexLab\MatchFullName\bin\Debug\netcoreapp3.1\MatchFullName.pdb
+E:\C# Videos\C-Fundamentals\RegexLab\MatchFullName\obj\Debug\netcoreapp3.1\MatchFullName.csprojAssemblyReference.cache
+E:\C# Videos\C-Fundamentals\RegexLab\MatchFullName\obj\Debug\netcoreapp3.1\MatchFullName.AssemblyInfoInputs.cache
+E:\C# Videos\C-Fundamentals\RegexLab\MatchFullName\obj\Debug\netcoreapp3.1\MatchFullName.AssemblyInfo.cs
+E:\C# Videos\C-Fundamentals\RegexLab\MatchFullName\obj\Debug\netcoreapp3.1\MatchFullName.csproj.CoreCompileInputs.cache
+E:\C# Videos\C-Fundamentals\RegexLab\MatchFullName\obj\Debug\netcoreapp3.1\MatchFullName.dll
+E:\C# Videos\C-Fundamentals\RegexLab\MatchFullName\obj\Debug\netcoreapp3.1\MatchFullName.pdb
+E:\C# Videos\C-Fundamentals\RegexLab\MatchFullName\obj\Debug\netcoreapp3.1\MatchFullName.genruntimeconfig.cache
