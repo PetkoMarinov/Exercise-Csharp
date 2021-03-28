@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatchFullName", "MatchFullName\MatchFullName.csproj", "{0CD8E0AB-97F1-415A-BAD7-6CD6A06E13F5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MatchFullName", "MatchFullName\MatchFullName.csproj", "{0CD8E0AB-97F1-415A-BAD7-6CD6A06E13F5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatchPhoneNumber", "MatchPhoneNumber\MatchPhoneNumber.csproj", "{72EC330F-CA6D-45FE-A495-9A691DB51702}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MatchPhoneNumber", "MatchPhoneNumber\MatchPhoneNumber.csproj", "{72EC330F-CA6D-45FE-A495-9A691DB51702}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatchDates", "MatchDates\MatchDates.csproj", "{20F7C295-CEB7-4B34-8225-B1D4E2DC783D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{72EC330F-CA6D-45FE-A495-9A691DB51702}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{72EC330F-CA6D-45FE-A495-9A691DB51702}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{72EC330F-CA6D-45FE-A495-9A691DB51702}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20F7C295-CEB7-4B34-8225-B1D4E2DC783D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20F7C295-CEB7-4B34-8225-B1D4E2DC783D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20F7C295-CEB7-4B34-8225-B1D4E2DC783D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20F7C295-CEB7-4B34-8225-B1D4E2DC783D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

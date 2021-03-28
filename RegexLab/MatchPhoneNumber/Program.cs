@@ -8,7 +8,7 @@ namespace MatchPhoneNumber
     {
         static void Main(string[] args)
         {
-            string pattern = @"\+359(?: |-)2(?: |-)\d{3}(?: |-)\d{4}";
+            string pattern = @"\+359(?: 2 |-2-)\d{3}(?: |-)\d{4}\b";
 
             string text = Console.ReadLine();
 
@@ -19,7 +19,7 @@ namespace MatchPhoneNumber
                 .Select(a => a.Value.Trim())
                 .ToArray();
 
-            Console.WriteLine(string.Join(" ",matchedPhoneNums));
+            Console.WriteLine(string.Join(", ",matchedPhoneNums));
         }
     }
 }

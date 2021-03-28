@@ -1,0 +1,13 @@
+E:\C# Videos\C-Fundamentals\RegexLab\MatchDates\bin\Debug\netcoreapp3.1\MatchDates.exe
+E:\C# Videos\C-Fundamentals\RegexLab\MatchDates\bin\Debug\netcoreapp3.1\MatchDates.deps.json
+E:\C# Videos\C-Fundamentals\RegexLab\MatchDates\bin\Debug\netcoreapp3.1\MatchDates.runtimeconfig.json
+E:\C# Videos\C-Fundamentals\RegexLab\MatchDates\bin\Debug\netcoreapp3.1\MatchDates.runtimeconfig.dev.json
+E:\C# Videos\C-Fundamentals\RegexLab\MatchDates\bin\Debug\netcoreapp3.1\MatchDates.dll
+E:\C# Videos\C-Fundamentals\RegexLab\MatchDates\bin\Debug\netcoreapp3.1\MatchDates.pdb
+E:\C# Videos\C-Fundamentals\RegexLab\MatchDates\obj\Debug\netcoreapp3.1\MatchDates.csprojAssemblyReference.cache
+E:\C# Videos\C-Fundamentals\RegexLab\MatchDates\obj\Debug\netcoreapp3.1\MatchDates.AssemblyInfoInputs.cache
+E:\C# Videos\C-Fundamentals\RegexLab\MatchDates\obj\Debug\netcoreapp3.1\MatchDates.AssemblyInfo.cs
+E:\C# Videos\C-Fundamentals\RegexLab\MatchDates\obj\Debug\netcoreapp3.1\MatchDates.csproj.CoreCompileInputs.cache
+E:\C# Videos\C-Fundamentals\RegexLab\MatchDates\obj\Debug\netcoreapp3.1\MatchDates.dll
+E:\C# Videos\C-Fundamentals\RegexLab\MatchDates\obj\Debug\netcoreapp3.1\MatchDates.pdb
+E:\C# Videos\C-Fundamentals\RegexLab\MatchDates\obj\Debug\netcoreapp3.1\MatchDates.genruntimeconfig.cache
