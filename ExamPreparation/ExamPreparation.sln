@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The Imitation Game", "The Imitation Game\The Imitation Game.csproj", "{B740BDFE-0303-4F8C-A396-FA4B3599435C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B740BDFE-0303-4F8C-A396-FA4B3599435C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B740BDFE-0303-4F8C-A396-FA4B3599435C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B740BDFE-0303-4F8C-A396-FA4B3599435C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B740BDFE-0303-4F8C-A396-FA4B3599435C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {844C372A-E4B3-424A-B354-608E0B6DC460}
+	EndGlobalSection
+EndGlobal

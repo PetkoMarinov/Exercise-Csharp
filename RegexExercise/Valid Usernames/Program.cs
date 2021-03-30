@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Text.RegularExpressions;
 
 namespace Valid_Usernames
 {
@@ -6,10 +7,13 @@ namespace Valid_Usernames
     {
         static void Main(string[] args)
         {
-            string[] input = Console.ReadLine().Split(", ");
+            string input = Console.ReadLine();
 
-            string pattern = @"";
-            MatchCollection validNames = 
+            string pattern = @"[^@ ,]\w+[^@ ,]-?[^@ ,]\w+[^@ ,]";
+
+            MatchCollection validNames = Regex.Matches(input, pattern);
+
+            Console.WriteLine(string.Join("\n",validNames));
 
 
 
