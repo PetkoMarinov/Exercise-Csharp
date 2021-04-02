@@ -3,11 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheImitationGame", "TheImitationGame\TheImitationGame.csproj", "{72DB024F-DA7E-4644-844B-D38C9A55D313}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TheImitationGame", "TheImitationGame\TheImitationGame.csproj", "{72DB024F-DA7E-4644-844B-D38C9A55D313}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdAstra", "AdAstra\AdAstra.csproj", "{5ACF0D16-902D-487D-90B3-D3980ED246E9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AdAstra", "AdAstra\AdAstra.csproj", "{5ACF0D16-902D-487D-90B3-D3980ED246E9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThePianist", "ThePianist\ThePianist.csproj", "{1CF7F0ED-074B-416A-A8EC-4D60DAC4BB76}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ThePianist", "ThePianist\ThePianist.csproj", "{1CF7F0ED-074B-416A-A8EC-4D60DAC4BB76}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ActivationKeys", "ActivationKeys\ActivationKeys.csproj", "{820B3B5F-8EEA-443B-AEEA-4223D5A52303}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmojiDetector", "EmojiDetector\EmojiDetector.csproj", "{28670FDB-9790-4C56-9C20-09FB2ECDA02E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +31,14 @@ Global
 		{1CF7F0ED-074B-416A-A8EC-4D60DAC4BB76}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1CF7F0ED-074B-416A-A8EC-4D60DAC4BB76}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1CF7F0ED-074B-416A-A8EC-4D60DAC4BB76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{820B3B5F-8EEA-443B-AEEA-4223D5A52303}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{820B3B5F-8EEA-443B-AEEA-4223D5A52303}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{820B3B5F-8EEA-443B-AEEA-4223D5A52303}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{820B3B5F-8EEA-443B-AEEA-4223D5A52303}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28670FDB-9790-4C56-9C20-09FB2ECDA02E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28670FDB-9790-4C56-9C20-09FB2ECDA02E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28670FDB-9790-4C56-9C20-09FB2ECDA02E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28670FDB-9790-4C56-9C20-09FB2ECDA02E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
