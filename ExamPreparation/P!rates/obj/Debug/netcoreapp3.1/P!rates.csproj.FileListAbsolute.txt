@@ -1,0 +1,13 @@
+E:\C# Videos\C-Fundamentals\ExamPreparation\P!rates\bin\Debug\netcoreapp3.1\P!rates.exe
+E:\C# Videos\C-Fundamentals\ExamPreparation\P!rates\bin\Debug\netcoreapp3.1\P!rates.deps.json
+E:\C# Videos\C-Fundamentals\ExamPreparation\P!rates\bin\Debug\netcoreapp3.1\P!rates.runtimeconfig.json
+E:\C# Videos\C-Fundamentals\ExamPreparation\P!rates\bin\Debug\netcoreapp3.1\P!rates.runtimeconfig.dev.json
+E:\C# Videos\C-Fundamentals\ExamPreparation\P!rates\bin\Debug\netcoreapp3.1\P!rates.dll
+E:\C# Videos\C-Fundamentals\ExamPreparation\P!rates\bin\Debug\netcoreapp3.1\P!rates.pdb
+E:\C# Videos\C-Fundamentals\ExamPreparation\P!rates\obj\Debug\netcoreapp3.1\P!rates.AssemblyInfoInputs.cache
+E:\C# Videos\C-Fundamentals\ExamPreparation\P!rates\obj\Debug\netcoreapp3.1\P!rates.AssemblyInfo.cs
+E:\C# Videos\C-Fundamentals\ExamPreparation\P!rates\obj\Debug\netcoreapp3.1\P!rates.csproj.CoreCompileInputs.cache
+E:\C# Videos\C-Fundamentals\ExamPreparation\P!rates\obj\Debug\netcoreapp3.1\P!rates.dll
+E:\C# Videos\C-Fundamentals\ExamPreparation\P!rates\obj\Debug\netcoreapp3.1\P!rates.pdb
+E:\C# Videos\C-Fundamentals\ExamPreparation\P!rates\obj\Debug\netcoreapp3.1\P!rates.genruntimeconfig.cache
+E:\C# Videos\C-Fundamentals\ExamPreparation\P!rates\obj\Debug\netcoreapp3.1\P!rates.csprojAssemblyReference.cache
