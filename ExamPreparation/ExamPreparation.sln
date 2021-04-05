@@ -11,9 +11,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ThePianist", "ThePianist\Th
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ActivationKeys", "ActivationKeys\ActivationKeys.csproj", "{820B3B5F-8EEA-443B-AEEA-4223D5A52303}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmojiDetector", "EmojiDetector\EmojiDetector.csproj", "{28670FDB-9790-4C56-9C20-09FB2ECDA02E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EmojiDetector", "EmojiDetector\EmojiDetector.csproj", "{28670FDB-9790-4C56-9C20-09FB2ECDA02E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P!rates", "P!rates\P!rates.csproj", "{E52C59C3-210C-4CFD-9707-E69499452D61}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P!rates", "P!rates\P!rates.csproj", "{E52C59C3-210C-4CFD-9707-E69499452D61}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FancyBarcode", "FancyBarcode\FancyBarcode.csproj", "{8BCCE2BB-29A6-4F71-971D-539BA100BDE6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{E52C59C3-210C-4CFD-9707-E69499452D61}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E52C59C3-210C-4CFD-9707-E69499452D61}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E52C59C3-210C-4CFD-9707-E69499452D61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BCCE2BB-29A6-4F71-971D-539BA100BDE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BCCE2BB-29A6-4F71-971D-539BA100BDE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BCCE2BB-29A6-4F71-971D-539BA100BDE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BCCE2BB-29A6-4F71-971D-539BA100BDE6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
