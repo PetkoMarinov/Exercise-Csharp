@@ -1,0 +1,13 @@
+E:\C# Videos\C-Fundamentals\Lab Stacks and Queues\SimpleCalculator\bin\Debug\netcoreapp3.1\SimpleCalculator.exe
+E:\C# Videos\C-Fundamentals\Lab Stacks and Queues\SimpleCalculator\bin\Debug\netcoreapp3.1\SimpleCalculator.deps.json
+E:\C# Videos\C-Fundamentals\Lab Stacks and Queues\SimpleCalculator\bin\Debug\netcoreapp3.1\SimpleCalculator.runtimeconfig.json
+E:\C# Videos\C-Fundamentals\Lab Stacks and Queues\SimpleCalculator\bin\Debug\netcoreapp3.1\SimpleCalculator.runtimeconfig.dev.json
+E:\C# Videos\C-Fundamentals\Lab Stacks and Queues\SimpleCalculator\bin\Debug\netcoreapp3.1\SimpleCalculator.dll
+E:\C# Videos\C-Fundamentals\Lab Stacks and Queues\SimpleCalculator\bin\Debug\netcoreapp3.1\SimpleCalculator.pdb
+E:\C# Videos\C-Fundamentals\Lab Stacks and Queues\SimpleCalculator\obj\Debug\netcoreapp3.1\SimpleCalculator.csprojAssemblyReference.cache
+E:\C# Videos\C-Fundamentals\Lab Stacks and Queues\SimpleCalculator\obj\Debug\netcoreapp3.1\SimpleCalculator.AssemblyInfoInputs.cache
+E:\C# Videos\C-Fundamentals\Lab Stacks and Queues\SimpleCalculator\obj\Debug\netcoreapp3.1\SimpleCalculator.AssemblyInfo.cs
+E:\C# Videos\C-Fundamentals\Lab Stacks and Queues\SimpleCalculator\obj\Debug\netcoreapp3.1\SimpleCalculator.csproj.CoreCompileInputs.cache
+E:\C# Videos\C-Fundamentals\Lab Stacks and Queues\SimpleCalculator\obj\Debug\netcoreapp3.1\SimpleCalculator.dll
+E:\C# Videos\C-Fundamentals\Lab Stacks and Queues\SimpleCalculator\obj\Debug\netcoreapp3.1\SimpleCalculator.pdb
+E:\C# Videos\C-Fundamentals\Lab Stacks and Queues\SimpleCalculator\obj\Debug\netcoreapp3.1\SimpleCalculator.genruntimeconfig.cache
