@@ -12,7 +12,7 @@ namespace PrintEvenNumbers
 
             Queue<int> queue = new Queue<int>(numbers);
 
-            for (int i = 0; i < queue.Count; i++)
+            for (int i = 0; i < numbers.Length; i++)
             {
                 int num = queue.Dequeue();
                 if (num % 2 == 0)
@@ -21,6 +21,7 @@ namespace PrintEvenNumbers
                 }
             }
 
+            Console.WriteLine(string.Join(", ",queue));
         }
     }
 }
