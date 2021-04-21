@@ -1,0 +1,13 @@
+E:\C# Videos\C-Fundamentals\Lab Stacks and Queues\TrafficJam\bin\Debug\netcoreapp3.1\TrafficJam.exe
+E:\C# Videos\C-Fundamentals\Lab Stacks and Queues\TrafficJam\bin\Debug\netcoreapp3.1\TrafficJam.deps.json
+E:\C# Videos\C-Fundamentals\Lab Stacks and Queues\TrafficJam\bin\Debug\netcoreapp3.1\TrafficJam.runtimeconfig.json
+E:\C# Videos\C-Fundamentals\Lab Stacks and Queues\TrafficJam\bin\Debug\netcoreapp3.1\TrafficJam.runtimeconfig.dev.json
+E:\C# Videos\C-Fundamentals\Lab Stacks and Queues\TrafficJam\bin\Debug\netcoreapp3.1\TrafficJam.dll
+E:\C# Videos\C-Fundamentals\Lab Stacks and Queues\TrafficJam\bin\Debug\netcoreapp3.1\TrafficJam.pdb
+E:\C# Videos\C-Fundamentals\Lab Stacks and Queues\TrafficJam\obj\Debug\netcoreapp3.1\TrafficJam.csprojAssemblyReference.cache
+E:\C# Videos\C-Fundamentals\Lab Stacks and Queues\TrafficJam\obj\Debug\netcoreapp3.1\TrafficJam.AssemblyInfoInputs.cache
+E:\C# Videos\C-Fundamentals\Lab Stacks and Queues\TrafficJam\obj\Debug\netcoreapp3.1\TrafficJam.AssemblyInfo.cs
+E:\C# Videos\C-Fundamentals\Lab Stacks and Queues\TrafficJam\obj\Debug\netcoreapp3.1\TrafficJam.csproj.CoreCompileInputs.cache
+E:\C# Videos\C-Fundamentals\Lab Stacks and Queues\TrafficJam\obj\Debug\netcoreapp3.1\TrafficJam.dll
+E:\C# Videos\C-Fundamentals\Lab Stacks and Queues\TrafficJam\obj\Debug\netcoreapp3.1\TrafficJam.pdb
+E:\C# Videos\C-Fundamentals\Lab Stacks and Queues\TrafficJam\obj\Debug\netcoreapp3.1\TrafficJam.genruntimeconfig.cache
