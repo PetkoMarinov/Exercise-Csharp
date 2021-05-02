@@ -1,0 +1,13 @@
+E:\C# Videos\C-Fundamentals\Exercises Functional Programming\2. Knights of Honor\bin\Debug\netcoreapp3.1\2. Knights of Honor.exe
+E:\C# Videos\C-Fundamentals\Exercises Functional Programming\2. Knights of Honor\bin\Debug\netcoreapp3.1\2. Knights of Honor.deps.json
+E:\C# Videos\C-Fundamentals\Exercises Functional Programming\2. Knights of Honor\bin\Debug\netcoreapp3.1\2. Knights of Honor.runtimeconfig.json
+E:\C# Videos\C-Fundamentals\Exercises Functional Programming\2. Knights of Honor\bin\Debug\netcoreapp3.1\2. Knights of Honor.runtimeconfig.dev.json
+E:\C# Videos\C-Fundamentals\Exercises Functional Programming\2. Knights of Honor\bin\Debug\netcoreapp3.1\2. Knights of Honor.dll
+E:\C# Videos\C-Fundamentals\Exercises Functional Programming\2. Knights of Honor\bin\Debug\netcoreapp3.1\2. Knights of Honor.pdb
+E:\C# Videos\C-Fundamentals\Exercises Functional Programming\2. Knights of Honor\obj\Debug\netcoreapp3.1\2. Knights of Honor.csprojAssemblyReference.cache
+E:\C# Videos\C-Fundamentals\Exercises Functional Programming\2. Knights of Honor\obj\Debug\netcoreapp3.1\2. Knights of Honor.AssemblyInfoInputs.cache
+E:\C# Videos\C-Fundamentals\Exercises Functional Programming\2. Knights of Honor\obj\Debug\netcoreapp3.1\2. Knights of Honor.AssemblyInfo.cs
+E:\C# Videos\C-Fundamentals\Exercises Functional Programming\2. Knights of Honor\obj\Debug\netcoreapp3.1\2. Knights of Honor.csproj.CoreCompileInputs.cache
+E:\C# Videos\C-Fundamentals\Exercises Functional Programming\2. Knights of Honor\obj\Debug\netcoreapp3.1\2. Knights of Honor.dll
+E:\C# Videos\C-Fundamentals\Exercises Functional Programming\2. Knights of Honor\obj\Debug\netcoreapp3.1\2. Knights of Honor.pdb
+E:\C# Videos\C-Fundamentals\Exercises Functional Programming\2. Knights of Honor\obj\Debug\netcoreapp3.1\2. Knights of Honor.genruntimeconfig.cache

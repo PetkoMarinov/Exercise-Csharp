@@ -1,0 +1,13 @@
+E:\C# Videos\C-Fundamentals\Exercises Functional Programming\3. Custom Min Function\obj\Debug\netcoreapp3.1\3. Custom Min Function.csprojAssemblyReference.cache
+E:\C# Videos\C-Fundamentals\Exercises Functional Programming\3. Custom Min Function\obj\Debug\netcoreapp3.1\3. Custom Min Function.AssemblyInfoInputs.cache
+E:\C# Videos\C-Fundamentals\Exercises Functional Programming\3. Custom Min Function\obj\Debug\netcoreapp3.1\3. Custom Min Function.AssemblyInfo.cs
+E:\C# Videos\C-Fundamentals\Exercises Functional Programming\3. Custom Min Function\obj\Debug\netcoreapp3.1\3. Custom Min Function.csproj.CoreCompileInputs.cache
+E:\C# Videos\C-Fundamentals\Exercises Functional Programming\3. Custom Min Function\bin\Debug\netcoreapp3.1\3. Custom Min Function.exe
+E:\C# Videos\C-Fundamentals\Exercises Functional Programming\3. Custom Min Function\bin\Debug\netcoreapp3.1\3. Custom Min Function.deps.json
+E:\C# Videos\C-Fundamentals\Exercises Functional Programming\3. Custom Min Function\bin\Debug\netcoreapp3.1\3. Custom Min Function.runtimeconfig.json
+E:\C# Videos\C-Fundamentals\Exercises Functional Programming\3. Custom Min Function\bin\Debug\netcoreapp3.1\3. Custom Min Function.runtimeconfig.dev.json
+E:\C# Videos\C-Fundamentals\Exercises Functional Programming\3. Custom Min Function\bin\Debug\netcoreapp3.1\3. Custom Min Function.dll
+E:\C# Videos\C-Fundamentals\Exercises Functional Programming\3. Custom Min Function\bin\Debug\netcoreapp3.1\3. Custom Min Function.pdb
+E:\C# Videos\C-Fundamentals\Exercises Functional Programming\3. Custom Min Function\obj\Debug\netcoreapp3.1\3. Custom Min Function.dll
+E:\C# Videos\C-Fundamentals\Exercises Functional Programming\3. Custom Min Function\obj\Debug\netcoreapp3.1\3. Custom Min Function.pdb
+E:\C# Videos\C-Fundamentals\Exercises Functional Programming\3. Custom Min Function\obj\Debug\netcoreapp3.1\3. Custom Min Function.genruntimeconfig.cache

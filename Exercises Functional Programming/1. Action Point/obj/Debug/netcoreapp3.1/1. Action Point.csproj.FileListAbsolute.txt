@@ -1,0 +1,13 @@
+E:\C# Videos\C-Fundamentals\Exercises Functional Programming\1. Action Point\bin\Debug\netcoreapp3.1\1. Action Point.exe
+E:\C# Videos\C-Fundamentals\Exercises Functional Programming\1. Action Point\bin\Debug\netcoreapp3.1\1. Action Point.deps.json
+E:\C# Videos\C-Fundamentals\Exercises Functional Programming\1. Action Point\bin\Debug\netcoreapp3.1\1. Action Point.runtimeconfig.json
+E:\C# Videos\C-Fundamentals\Exercises Functional Programming\1. Action Point\bin\Debug\netcoreapp3.1\1. Action Point.runtimeconfig.dev.json
+E:\C# Videos\C-Fundamentals\Exercises Functional Programming\1. Action Point\bin\Debug\netcoreapp3.1\1. Action Point.dll
+E:\C# Videos\C-Fundamentals\Exercises Functional Programming\1. Action Point\bin\Debug\netcoreapp3.1\1. Action Point.pdb
+E:\C# Videos\C-Fundamentals\Exercises Functional Programming\1. Action Point\obj\Debug\netcoreapp3.1\1. Action Point.csprojAssemblyReference.cache
+E:\C# Videos\C-Fundamentals\Exercises Functional Programming\1. Action Point\obj\Debug\netcoreapp3.1\1. Action Point.AssemblyInfoInputs.cache
+E:\C# Videos\C-Fundamentals\Exercises Functional Programming\1. Action Point\obj\Debug\netcoreapp3.1\1. Action Point.AssemblyInfo.cs
+E:\C# Videos\C-Fundamentals\Exercises Functional Programming\1. Action Point\obj\Debug\netcoreapp3.1\1. Action Point.csproj.CoreCompileInputs.cache
+E:\C# Videos\C-Fundamentals\Exercises Functional Programming\1. Action Point\obj\Debug\netcoreapp3.1\1. Action Point.dll
+E:\C# Videos\C-Fundamentals\Exercises Functional Programming\1. Action Point\obj\Debug\netcoreapp3.1\1. Action Point.pdb
+E:\C# Videos\C-Fundamentals\Exercises Functional Programming\1. Action Point\obj\Debug\netcoreapp3.1\1. Action Point.genruntimeconfig.cache
