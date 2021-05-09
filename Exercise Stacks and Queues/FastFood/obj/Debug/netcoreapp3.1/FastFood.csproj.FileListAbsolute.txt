@@ -1,0 +1,13 @@
+E:\C# Videos\C-Fundamentals\Exercise Stacks and Queues\FastFood\bin\Debug\netcoreapp3.1\FastFood.exe
+E:\C# Videos\C-Fundamentals\Exercise Stacks and Queues\FastFood\bin\Debug\netcoreapp3.1\FastFood.deps.json
+E:\C# Videos\C-Fundamentals\Exercise Stacks and Queues\FastFood\bin\Debug\netcoreapp3.1\FastFood.runtimeconfig.json
+E:\C# Videos\C-Fundamentals\Exercise Stacks and Queues\FastFood\bin\Debug\netcoreapp3.1\FastFood.runtimeconfig.dev.json
+E:\C# Videos\C-Fundamentals\Exercise Stacks and Queues\FastFood\bin\Debug\netcoreapp3.1\FastFood.dll
+E:\C# Videos\C-Fundamentals\Exercise Stacks and Queues\FastFood\bin\Debug\netcoreapp3.1\FastFood.pdb
+E:\C# Videos\C-Fundamentals\Exercise Stacks and Queues\FastFood\obj\Debug\netcoreapp3.1\FastFood.csprojAssemblyReference.cache
+E:\C# Videos\C-Fundamentals\Exercise Stacks and Queues\FastFood\obj\Debug\netcoreapp3.1\FastFood.AssemblyInfoInputs.cache
+E:\C# Videos\C-Fundamentals\Exercise Stacks and Queues\FastFood\obj\Debug\netcoreapp3.1\FastFood.AssemblyInfo.cs
+E:\C# Videos\C-Fundamentals\Exercise Stacks and Queues\FastFood\obj\Debug\netcoreapp3.1\FastFood.csproj.CoreCompileInputs.cache
+E:\C# Videos\C-Fundamentals\Exercise Stacks and Queues\FastFood\obj\Debug\netcoreapp3.1\FastFood.dll
+E:\C# Videos\C-Fundamentals\Exercise Stacks and Queues\FastFood\obj\Debug\netcoreapp3.1\FastFood.pdb
+E:\C# Videos\C-Fundamentals\Exercise Stacks and Queues\FastFood\obj\Debug\netcoreapp3.1\FastFood.genruntimeconfig.cache
