@@ -1,0 +1,16 @@
+E:\C# Videos\C-Fundamentals\Exercise Stacks and Queues\7. Truck Tour\bin\Debug\net5.0\7. Truck Tour.exe
+E:\C# Videos\C-Fundamentals\Exercise Stacks and Queues\7. Truck Tour\bin\Debug\net5.0\7. Truck Tour.deps.json
+E:\C# Videos\C-Fundamentals\Exercise Stacks and Queues\7. Truck Tour\bin\Debug\net5.0\7. Truck Tour.runtimeconfig.json
+E:\C# Videos\C-Fundamentals\Exercise Stacks and Queues\7. Truck Tour\bin\Debug\net5.0\7. Truck Tour.runtimeconfig.dev.json
+E:\C# Videos\C-Fundamentals\Exercise Stacks and Queues\7. Truck Tour\bin\Debug\net5.0\7. Truck Tour.dll
+E:\C# Videos\C-Fundamentals\Exercise Stacks and Queues\7. Truck Tour\bin\Debug\net5.0\ref\7. Truck Tour.dll
+E:\C# Videos\C-Fundamentals\Exercise Stacks and Queues\7. Truck Tour\bin\Debug\net5.0\7. Truck Tour.pdb
+E:\C# Videos\C-Fundamentals\Exercise Stacks and Queues\7. Truck Tour\obj\Debug\net5.0\7. Truck Tour.csprojAssemblyReference.cache
+E:\C# Videos\C-Fundamentals\Exercise Stacks and Queues\7. Truck Tour\obj\Debug\net5.0\7. Truck Tour.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# Videos\C-Fundamentals\Exercise Stacks and Queues\7. Truck Tour\obj\Debug\net5.0\7. Truck Tour.AssemblyInfoInputs.cache
+E:\C# Videos\C-Fundamentals\Exercise Stacks and Queues\7. Truck Tour\obj\Debug\net5.0\7. Truck Tour.AssemblyInfo.cs
+E:\C# Videos\C-Fundamentals\Exercise Stacks and Queues\7. Truck Tour\obj\Debug\net5.0\7. Truck Tour.csproj.CoreCompileInputs.cache
+E:\C# Videos\C-Fundamentals\Exercise Stacks and Queues\7. Truck Tour\obj\Debug\net5.0\7. Truck Tour.dll
+E:\C# Videos\C-Fundamentals\Exercise Stacks and Queues\7. Truck Tour\obj\Debug\net5.0\ref\7. Truck Tour.dll
+E:\C# Videos\C-Fundamentals\Exercise Stacks and Queues\7. Truck Tour\obj\Debug\net5.0\7. Truck Tour.pdb
+E:\C# Videos\C-Fundamentals\Exercise Stacks and Queues\7. Truck Tour\obj\Debug\net5.0\7. Truck Tour.genruntimeconfig.cache
