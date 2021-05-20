@@ -1,0 +1,16 @@
+E:\C# Videos\C-Fundamentals\7. Knight Game\bin\Debug\net5.0\7. Knight Game.exe
+E:\C# Videos\C-Fundamentals\7. Knight Game\bin\Debug\net5.0\7. Knight Game.deps.json
+E:\C# Videos\C-Fundamentals\7. Knight Game\bin\Debug\net5.0\7. Knight Game.runtimeconfig.json
+E:\C# Videos\C-Fundamentals\7. Knight Game\bin\Debug\net5.0\7. Knight Game.runtimeconfig.dev.json
+E:\C# Videos\C-Fundamentals\7. Knight Game\bin\Debug\net5.0\7. Knight Game.dll
+E:\C# Videos\C-Fundamentals\7. Knight Game\bin\Debug\net5.0\ref\7. Knight Game.dll
+E:\C# Videos\C-Fundamentals\7. Knight Game\bin\Debug\net5.0\7. Knight Game.pdb
+E:\C# Videos\C-Fundamentals\7. Knight Game\obj\Debug\net5.0\7. Knight Game.csprojAssemblyReference.cache
+E:\C# Videos\C-Fundamentals\7. Knight Game\obj\Debug\net5.0\7. Knight Game.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# Videos\C-Fundamentals\7. Knight Game\obj\Debug\net5.0\7. Knight Game.AssemblyInfoInputs.cache
+E:\C# Videos\C-Fundamentals\7. Knight Game\obj\Debug\net5.0\7. Knight Game.AssemblyInfo.cs
+E:\C# Videos\C-Fundamentals\7. Knight Game\obj\Debug\net5.0\7. Knight Game.csproj.CoreCompileInputs.cache
+E:\C# Videos\C-Fundamentals\7. Knight Game\obj\Debug\net5.0\7. Knight Game.dll
+E:\C# Videos\C-Fundamentals\7. Knight Game\obj\Debug\net5.0\ref\7. Knight Game.dll
+E:\C# Videos\C-Fundamentals\7. Knight Game\obj\Debug\net5.0\7. Knight Game.pdb
+E:\C# Videos\C-Fundamentals\7. Knight Game\obj\Debug\net5.0\7. Knight Game.genruntimeconfig.cache
