@@ -1,67 +1,49 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 
 namespace _7._Truck_Tour
 {
     class Program
     {
-        class Pump
-        {
-            public int Petrol { get; set; }
-            public int Distance { get; set; }
-
-            public Pump(int petrol, int distance)
-            {
-                this.Petrol = petrol;
-                this.Distance = distance;
-            }
-
-        }
 
         static void Main(string[] args)
         {
-            int pumps = int.Parse(Console.ReadLine());
-            Queue<Pump> queue = new Queue<Pump>(pumps);
+            int count = int.Parse(Console.ReadLine());
+            Queue<int[]> pumps = new Queue<int[]>();
 
-            for (int i = 0; i < pumps; i++)
+            for (int i = 0; i < count; i++)
             {
-                string[] data = Console.ReadLine().Split();
-                int petrol = int.Parse(data[0]);
-                int distance = int.Parse(data[1]);
-
-                Pump pump = new Pump(petrol, distance);
-                queue.Enqueue(pump);
+                int[] petrolPump = Console.ReadLine().Split().Select(int.Parse).ToArray();
+                pumps.Enqueue(petrolPump);
             }
 
-            int petrolInTank = 0;
-            int add = 0;
+            int index = 0;
 
-            for (int i = 0; i < pumps; i++)
+            while (true)
             {
-                for (int k = 0; k < pumps; k++)
-                {
-                    int nextPumpDistance = queue.Peek().Distance;
-                    int currentPumpPetrol = queue.Peek().Petrol;
+                int totalFuel = 0;
 
-                    if (petrolInTank + currentPumpPetrol < nextPumpDistance)
+                foreach (int[] pump in pumps)
+                {
+                    int petrol = pump[0];
+                    int distance = pump[1];
+                    totalFuel += petrol - distance;
+
+                    if (totalFuel < 0)
                     {
-                        queue.Enqueue(queue.Dequeue());
-                        add = k;
+                        pumps.Enqueue(pumps.Dequeue());
+                        index++;
                         break;
                     }
-                    else
-                    {
-                        petrolInTank += currentPumpPetrol;
-                        petrolInTank -= nextPumpDistance;
-                        queue.Enqueue(queue.Dequeue());
-                        if (k==pumps-1)
-                        {
-                            Console.WriteLine(i+add);return;
-                        }
-                    }
                 }
-                
+
+                if (totalFuel >= 0)
+                {
+                    break;
+                }
             }
+            Console.WriteLine(index);
         }
     }
 }

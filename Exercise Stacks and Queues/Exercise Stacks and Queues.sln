@@ -9,13 +9,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2. Basic Queue Operations",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3. Maximum and Minimum Element", "3. Maximum and Minimum Element\3. Maximum and Minimum Element.csproj", "{33B88339-1747-4603-ABDF-11A29C54C5CA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FastFood", "FastFood\FastFood.csproj", "{80D764EA-9241-45E5-8306-CBDB8B5C499C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FastFood", "FastFood\FastFood.csproj", "{80D764EA-9241-45E5-8306-CBDB8B5C499C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5. Fashion Boutique", "5. Fashion Boutique\5. Fashion Boutique.csproj", "{E59CDF08-CEDE-4455-8902-57C5A9FA4C3D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5. Fashion Boutique", "5. Fashion Boutique\5. Fashion Boutique.csproj", "{E59CDF08-CEDE-4455-8902-57C5A9FA4C3D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6. Songs Queue", "6. Songs Queue\6. Songs Queue.csproj", "{02CF8CDE-5DAC-44DE-B2C9-C912CA1307FD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "6. Songs Queue", "6. Songs Queue\6. Songs Queue.csproj", "{02CF8CDE-5DAC-44DE-B2C9-C912CA1307FD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7. Truck Tour", "7. Truck Tour\7. Truck Tour.csproj", "{108F7FA9-AFB5-4D1F-93EE-6CDBF57486B6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7. Truck Tour", "7. Truck Tour\7. Truck Tour.csproj", "{108F7FA9-AFB5-4D1F-93EE-6CDBF57486B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TruckTour2", "TruckTour2\TruckTour2.csproj", "{030D435F-3A6D-4021-8D5B-67528466E84C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{108F7FA9-AFB5-4D1F-93EE-6CDBF57486B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{108F7FA9-AFB5-4D1F-93EE-6CDBF57486B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{108F7FA9-AFB5-4D1F-93EE-6CDBF57486B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{030D435F-3A6D-4021-8D5B-67528466E84C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{030D435F-3A6D-4021-8D5B-67528466E84C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{030D435F-3A6D-4021-8D5B-67528466E84C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{030D435F-3A6D-4021-8D5B-67528466E84C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
