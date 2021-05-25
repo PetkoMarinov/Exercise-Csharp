@@ -1,0 +1,16 @@
+E:\C# Videos\C-Fundamentals\Exercise Stacks and Queues\9. Simple Text Editor\bin\Debug\net5.0\9. Simple Text Editor.exe
+E:\C# Videos\C-Fundamentals\Exercise Stacks and Queues\9. Simple Text Editor\bin\Debug\net5.0\9. Simple Text Editor.deps.json
+E:\C# Videos\C-Fundamentals\Exercise Stacks and Queues\9. Simple Text Editor\bin\Debug\net5.0\9. Simple Text Editor.runtimeconfig.json
+E:\C# Videos\C-Fundamentals\Exercise Stacks and Queues\9. Simple Text Editor\bin\Debug\net5.0\9. Simple Text Editor.runtimeconfig.dev.json
+E:\C# Videos\C-Fundamentals\Exercise Stacks and Queues\9. Simple Text Editor\bin\Debug\net5.0\9. Simple Text Editor.dll
+E:\C# Videos\C-Fundamentals\Exercise Stacks and Queues\9. Simple Text Editor\bin\Debug\net5.0\ref\9. Simple Text Editor.dll
+E:\C# Videos\C-Fundamentals\Exercise Stacks and Queues\9. Simple Text Editor\bin\Debug\net5.0\9. Simple Text Editor.pdb
+E:\C# Videos\C-Fundamentals\Exercise Stacks and Queues\9. Simple Text Editor\obj\Debug\net5.0\9. Simple Text Editor.csprojAssemblyReference.cache
+E:\C# Videos\C-Fundamentals\Exercise Stacks and Queues\9. Simple Text Editor\obj\Debug\net5.0\9. Simple Text Editor.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# Videos\C-Fundamentals\Exercise Stacks and Queues\9. Simple Text Editor\obj\Debug\net5.0\9. Simple Text Editor.AssemblyInfoInputs.cache
+E:\C# Videos\C-Fundamentals\Exercise Stacks and Queues\9. Simple Text Editor\obj\Debug\net5.0\9. Simple Text Editor.AssemblyInfo.cs
+E:\C# Videos\C-Fundamentals\Exercise Stacks and Queues\9. Simple Text Editor\obj\Debug\net5.0\9. Simple Text Editor.csproj.CoreCompileInputs.cache
+E:\C# Videos\C-Fundamentals\Exercise Stacks and Queues\9. Simple Text Editor\obj\Debug\net5.0\9. Simple Text Editor.dll
+E:\C# Videos\C-Fundamentals\Exercise Stacks and Queues\9. Simple Text Editor\obj\Debug\net5.0\ref\9. Simple Text Editor.dll
+E:\C# Videos\C-Fundamentals\Exercise Stacks and Queues\9. Simple Text Editor\obj\Debug\net5.0\9. Simple Text Editor.pdb
+E:\C# Videos\C-Fundamentals\Exercise Stacks and Queues\9. Simple Text Editor\obj\Debug\net5.0\9. Simple Text Editor.genruntimeconfig.cache
