@@ -1,0 +1,16 @@
+E:\C# Videos\C-Fundamentals\4. Find Evens or Odds\6. Reverse and Exclude\bin\Debug\net5.0\6. Reverse and Exclude.exe
+E:\C# Videos\C-Fundamentals\4. Find Evens or Odds\6. Reverse and Exclude\bin\Debug\net5.0\6. Reverse and Exclude.deps.json
+E:\C# Videos\C-Fundamentals\4. Find Evens or Odds\6. Reverse and Exclude\bin\Debug\net5.0\6. Reverse and Exclude.runtimeconfig.json
+E:\C# Videos\C-Fundamentals\4. Find Evens or Odds\6. Reverse and Exclude\bin\Debug\net5.0\6. Reverse and Exclude.runtimeconfig.dev.json
+E:\C# Videos\C-Fundamentals\4. Find Evens or Odds\6. Reverse and Exclude\bin\Debug\net5.0\6. Reverse and Exclude.dll
+E:\C# Videos\C-Fundamentals\4. Find Evens or Odds\6. Reverse and Exclude\bin\Debug\net5.0\ref\6. Reverse and Exclude.dll
+E:\C# Videos\C-Fundamentals\4. Find Evens or Odds\6. Reverse and Exclude\bin\Debug\net5.0\6. Reverse and Exclude.pdb
+E:\C# Videos\C-Fundamentals\4. Find Evens or Odds\6. Reverse and Exclude\obj\Debug\net5.0\6. Reverse and Exclude.csprojAssemblyReference.cache
+E:\C# Videos\C-Fundamentals\4. Find Evens or Odds\6. Reverse and Exclude\obj\Debug\net5.0\6. Reverse and Exclude.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# Videos\C-Fundamentals\4. Find Evens or Odds\6. Reverse and Exclude\obj\Debug\net5.0\6. Reverse and Exclude.AssemblyInfoInputs.cache
+E:\C# Videos\C-Fundamentals\4. Find Evens or Odds\6. Reverse and Exclude\obj\Debug\net5.0\6. Reverse and Exclude.AssemblyInfo.cs
+E:\C# Videos\C-Fundamentals\4. Find Evens or Odds\6. Reverse and Exclude\obj\Debug\net5.0\6. Reverse and Exclude.csproj.CoreCompileInputs.cache
+E:\C# Videos\C-Fundamentals\4. Find Evens or Odds\6. Reverse and Exclude\obj\Debug\net5.0\6. Reverse and Exclude.dll
+E:\C# Videos\C-Fundamentals\4. Find Evens or Odds\6. Reverse and Exclude\obj\Debug\net5.0\ref\6. Reverse and Exclude.dll
+E:\C# Videos\C-Fundamentals\4. Find Evens or Odds\6. Reverse and Exclude\obj\Debug\net5.0\6. Reverse and Exclude.pdb
+E:\C# Videos\C-Fundamentals\4. Find Evens or Odds\6. Reverse and Exclude\obj\Debug\net5.0\6. Reverse and Exclude.genruntimeconfig.cache

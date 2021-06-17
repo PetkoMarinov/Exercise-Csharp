@@ -1,0 +1,16 @@
+E:\C# Videos\C-Fundamentals\4. Find Evens or Odds\9. List of Predicates\bin\Debug\net5.0\9. List of Predicates.exe
+E:\C# Videos\C-Fundamentals\4. Find Evens or Odds\9. List of Predicates\bin\Debug\net5.0\9. List of Predicates.deps.json
+E:\C# Videos\C-Fundamentals\4. Find Evens or Odds\9. List of Predicates\bin\Debug\net5.0\9. List of Predicates.runtimeconfig.json
+E:\C# Videos\C-Fundamentals\4. Find Evens or Odds\9. List of Predicates\bin\Debug\net5.0\9. List of Predicates.runtimeconfig.dev.json
+E:\C# Videos\C-Fundamentals\4. Find Evens or Odds\9. List of Predicates\bin\Debug\net5.0\9. List of Predicates.dll
+E:\C# Videos\C-Fundamentals\4. Find Evens or Odds\9. List of Predicates\bin\Debug\net5.0\ref\9. List of Predicates.dll
+E:\C# Videos\C-Fundamentals\4. Find Evens or Odds\9. List of Predicates\bin\Debug\net5.0\9. List of Predicates.pdb
+E:\C# Videos\C-Fundamentals\4. Find Evens or Odds\9. List of Predicates\obj\Debug\net5.0\9. List of Predicates.csprojAssemblyReference.cache
+E:\C# Videos\C-Fundamentals\4. Find Evens or Odds\9. List of Predicates\obj\Debug\net5.0\9. List of Predicates.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# Videos\C-Fundamentals\4. Find Evens or Odds\9. List of Predicates\obj\Debug\net5.0\9. List of Predicates.AssemblyInfoInputs.cache
+E:\C# Videos\C-Fundamentals\4. Find Evens or Odds\9. List of Predicates\obj\Debug\net5.0\9. List of Predicates.AssemblyInfo.cs
+E:\C# Videos\C-Fundamentals\4. Find Evens or Odds\9. List of Predicates\obj\Debug\net5.0\9. List of Predicates.csproj.CoreCompileInputs.cache
+E:\C# Videos\C-Fundamentals\4. Find Evens or Odds\9. List of Predicates\obj\Debug\net5.0\9. List of Predicates.dll
+E:\C# Videos\C-Fundamentals\4. Find Evens or Odds\9. List of Predicates\obj\Debug\net5.0\ref\9. List of Predicates.dll
+E:\C# Videos\C-Fundamentals\4. Find Evens or Odds\9. List of Predicates\obj\Debug\net5.0\9. List of Predicates.pdb
+E:\C# Videos\C-Fundamentals\4. Find Evens or Odds\9. List of Predicates\obj\Debug\net5.0\9. List of Predicates.genruntimeconfig.cache

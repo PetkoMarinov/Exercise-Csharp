@@ -1,0 +1,16 @@
+E:\C# Videos\C-Fundamentals\4. Find Evens or Odds\5. Applied Arithmetics\bin\Debug\net5.0\5. Applied Arithmetics.exe
+E:\C# Videos\C-Fundamentals\4. Find Evens or Odds\5. Applied Arithmetics\bin\Debug\net5.0\5. Applied Arithmetics.deps.json
+E:\C# Videos\C-Fundamentals\4. Find Evens or Odds\5. Applied Arithmetics\bin\Debug\net5.0\5. Applied Arithmetics.runtimeconfig.json
+E:\C# Videos\C-Fundamentals\4. Find Evens or Odds\5. Applied Arithmetics\bin\Debug\net5.0\5. Applied Arithmetics.runtimeconfig.dev.json
+E:\C# Videos\C-Fundamentals\4. Find Evens or Odds\5. Applied Arithmetics\bin\Debug\net5.0\5. Applied Arithmetics.dll
+E:\C# Videos\C-Fundamentals\4. Find Evens or Odds\5. Applied Arithmetics\bin\Debug\net5.0\ref\5. Applied Arithmetics.dll
+E:\C# Videos\C-Fundamentals\4. Find Evens or Odds\5. Applied Arithmetics\bin\Debug\net5.0\5. Applied Arithmetics.pdb
+E:\C# Videos\C-Fundamentals\4. Find Evens or Odds\5. Applied Arithmetics\obj\Debug\net5.0\5. Applied Arithmetics.csprojAssemblyReference.cache
+E:\C# Videos\C-Fundamentals\4. Find Evens or Odds\5. Applied Arithmetics\obj\Debug\net5.0\5. Applied Arithmetics.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# Videos\C-Fundamentals\4. Find Evens or Odds\5. Applied Arithmetics\obj\Debug\net5.0\5. Applied Arithmetics.AssemblyInfoInputs.cache
+E:\C# Videos\C-Fundamentals\4. Find Evens or Odds\5. Applied Arithmetics\obj\Debug\net5.0\5. Applied Arithmetics.AssemblyInfo.cs
+E:\C# Videos\C-Fundamentals\4. Find Evens or Odds\5. Applied Arithmetics\obj\Debug\net5.0\5. Applied Arithmetics.csproj.CoreCompileInputs.cache
+E:\C# Videos\C-Fundamentals\4. Find Evens or Odds\5. Applied Arithmetics\obj\Debug\net5.0\5. Applied Arithmetics.dll
+E:\C# Videos\C-Fundamentals\4. Find Evens or Odds\5. Applied Arithmetics\obj\Debug\net5.0\ref\5. Applied Arithmetics.dll
+E:\C# Videos\C-Fundamentals\4. Find Evens or Odds\5. Applied Arithmetics\obj\Debug\net5.0\5. Applied Arithmetics.pdb
+E:\C# Videos\C-Fundamentals\4. Find Evens or Odds\5. Applied Arithmetics\obj\Debug\net5.0\5. Applied Arithmetics.genruntimeconfig.cache
