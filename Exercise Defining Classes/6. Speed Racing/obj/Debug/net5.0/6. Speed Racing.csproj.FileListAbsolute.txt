@@ -1,0 +1,16 @@
+E:\C# Videos\C-Fundamentals\Exercise Defining Classes\6. Speed Racing\bin\Debug\net5.0\6. Speed Racing.exe
+E:\C# Videos\C-Fundamentals\Exercise Defining Classes\6. Speed Racing\bin\Debug\net5.0\6. Speed Racing.deps.json
+E:\C# Videos\C-Fundamentals\Exercise Defining Classes\6. Speed Racing\bin\Debug\net5.0\6. Speed Racing.runtimeconfig.json
+E:\C# Videos\C-Fundamentals\Exercise Defining Classes\6. Speed Racing\bin\Debug\net5.0\6. Speed Racing.runtimeconfig.dev.json
+E:\C# Videos\C-Fundamentals\Exercise Defining Classes\6. Speed Racing\bin\Debug\net5.0\6. Speed Racing.dll
+E:\C# Videos\C-Fundamentals\Exercise Defining Classes\6. Speed Racing\bin\Debug\net5.0\ref\6. Speed Racing.dll
+E:\C# Videos\C-Fundamentals\Exercise Defining Classes\6. Speed Racing\bin\Debug\net5.0\6. Speed Racing.pdb
+E:\C# Videos\C-Fundamentals\Exercise Defining Classes\6. Speed Racing\obj\Debug\net5.0\6. Speed Racing.csprojAssemblyReference.cache
+E:\C# Videos\C-Fundamentals\Exercise Defining Classes\6. Speed Racing\obj\Debug\net5.0\6. Speed Racing.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# Videos\C-Fundamentals\Exercise Defining Classes\6. Speed Racing\obj\Debug\net5.0\6. Speed Racing.AssemblyInfoInputs.cache
+E:\C# Videos\C-Fundamentals\Exercise Defining Classes\6. Speed Racing\obj\Debug\net5.0\6. Speed Racing.AssemblyInfo.cs
+E:\C# Videos\C-Fundamentals\Exercise Defining Classes\6. Speed Racing\obj\Debug\net5.0\6. Speed Racing.csproj.CoreCompileInputs.cache
+E:\C# Videos\C-Fundamentals\Exercise Defining Classes\6. Speed Racing\obj\Debug\net5.0\6. Speed Racing.dll
+E:\C# Videos\C-Fundamentals\Exercise Defining Classes\6. Speed Racing\obj\Debug\net5.0\ref\6. Speed Racing.dll
+E:\C# Videos\C-Fundamentals\Exercise Defining Classes\6. Speed Racing\obj\Debug\net5.0\6. Speed Racing.pdb
+E:\C# Videos\C-Fundamentals\Exercise Defining Classes\6. Speed Racing\obj\Debug\net5.0\6. Speed Racing.genruntimeconfig.cache

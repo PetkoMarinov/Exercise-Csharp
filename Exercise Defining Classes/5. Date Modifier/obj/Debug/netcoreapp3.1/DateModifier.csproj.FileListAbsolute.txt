@@ -1,0 +1,12 @@
+E:\C# Videos\C-Fundamentals\Exercise Defining Classes\5. Date Modifier\bin\Debug\netcoreapp3.1\DateModifier.exe
+E:\C# Videos\C-Fundamentals\Exercise Defining Classes\5. Date Modifier\bin\Debug\netcoreapp3.1\DateModifier.deps.json
+E:\C# Videos\C-Fundamentals\Exercise Defining Classes\5. Date Modifier\bin\Debug\netcoreapp3.1\DateModifier.runtimeconfig.json
+E:\C# Videos\C-Fundamentals\Exercise Defining Classes\5. Date Modifier\bin\Debug\netcoreapp3.1\DateModifier.runtimeconfig.dev.json
+E:\C# Videos\C-Fundamentals\Exercise Defining Classes\5. Date Modifier\bin\Debug\netcoreapp3.1\DateModifier.dll
+E:\C# Videos\C-Fundamentals\Exercise Defining Classes\5. Date Modifier\bin\Debug\netcoreapp3.1\DateModifier.pdb
+E:\C# Videos\C-Fundamentals\Exercise Defining Classes\5. Date Modifier\obj\Debug\netcoreapp3.1\DateModifier.AssemblyInfoInputs.cache
+E:\C# Videos\C-Fundamentals\Exercise Defining Classes\5. Date Modifier\obj\Debug\netcoreapp3.1\DateModifier.AssemblyInfo.cs
+E:\C# Videos\C-Fundamentals\Exercise Defining Classes\5. Date Modifier\obj\Debug\netcoreapp3.1\DateModifier.csproj.CoreCompileInputs.cache
+E:\C# Videos\C-Fundamentals\Exercise Defining Classes\5. Date Modifier\obj\Debug\netcoreapp3.1\DateModifier.dll
+E:\C# Videos\C-Fundamentals\Exercise Defining Classes\5. Date Modifier\obj\Debug\netcoreapp3.1\DateModifier.pdb
+E:\C# Videos\C-Fundamentals\Exercise Defining Classes\5. Date Modifier\obj\Debug\netcoreapp3.1\DateModifier.genruntimeconfig.cache

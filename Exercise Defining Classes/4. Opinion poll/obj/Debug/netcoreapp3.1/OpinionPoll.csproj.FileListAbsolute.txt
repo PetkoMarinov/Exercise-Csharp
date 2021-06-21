@@ -1,0 +1,13 @@
+E:\C# Videos\C-Fundamentals\Exercise Defining Classes\4. Opinion poll\bin\Debug\netcoreapp3.1\OpinionPoll.exe
+E:\C# Videos\C-Fundamentals\Exercise Defining Classes\4. Opinion poll\bin\Debug\netcoreapp3.1\OpinionPoll.deps.json
+E:\C# Videos\C-Fundamentals\Exercise Defining Classes\4. Opinion poll\bin\Debug\netcoreapp3.1\OpinionPoll.runtimeconfig.json
+E:\C# Videos\C-Fundamentals\Exercise Defining Classes\4. Opinion poll\bin\Debug\netcoreapp3.1\OpinionPoll.runtimeconfig.dev.json
+E:\C# Videos\C-Fundamentals\Exercise Defining Classes\4. Opinion poll\bin\Debug\netcoreapp3.1\OpinionPoll.dll
+E:\C# Videos\C-Fundamentals\Exercise Defining Classes\4. Opinion poll\bin\Debug\netcoreapp3.1\OpinionPoll.pdb
+E:\C# Videos\C-Fundamentals\Exercise Defining Classes\4. Opinion poll\obj\Debug\netcoreapp3.1\OpinionPoll.csprojAssemblyReference.cache
+E:\C# Videos\C-Fundamentals\Exercise Defining Classes\4. Opinion poll\obj\Debug\netcoreapp3.1\OpinionPoll.AssemblyInfoInputs.cache
+E:\C# Videos\C-Fundamentals\Exercise Defining Classes\4. Opinion poll\obj\Debug\netcoreapp3.1\OpinionPoll.AssemblyInfo.cs
+E:\C# Videos\C-Fundamentals\Exercise Defining Classes\4. Opinion poll\obj\Debug\netcoreapp3.1\OpinionPoll.csproj.CoreCompileInputs.cache
+E:\C# Videos\C-Fundamentals\Exercise Defining Classes\4. Opinion poll\obj\Debug\netcoreapp3.1\OpinionPoll.dll
+E:\C# Videos\C-Fundamentals\Exercise Defining Classes\4. Opinion poll\obj\Debug\netcoreapp3.1\OpinionPoll.pdb
+E:\C# Videos\C-Fundamentals\Exercise Defining Classes\4. Opinion poll\obj\Debug\netcoreapp3.1\OpinionPoll.genruntimeconfig.cache
