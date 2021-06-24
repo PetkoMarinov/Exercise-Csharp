@@ -1,0 +1,13 @@
+E:\C# Videos\C-Fundamentals\AdvancedExamPreparation\1. The Fight for Gondor\bin\Debug\netcoreapp3.1\1. The Fight for Gondor.exe
+E:\C# Videos\C-Fundamentals\AdvancedExamPreparation\1. The Fight for Gondor\bin\Debug\netcoreapp3.1\1. The Fight for Gondor.deps.json
+E:\C# Videos\C-Fundamentals\AdvancedExamPreparation\1. The Fight for Gondor\bin\Debug\netcoreapp3.1\1. The Fight for Gondor.runtimeconfig.json
+E:\C# Videos\C-Fundamentals\AdvancedExamPreparation\1. The Fight for Gondor\bin\Debug\netcoreapp3.1\1. The Fight for Gondor.runtimeconfig.dev.json
+E:\C# Videos\C-Fundamentals\AdvancedExamPreparation\1. The Fight for Gondor\bin\Debug\netcoreapp3.1\1. The Fight for Gondor.dll
+E:\C# Videos\C-Fundamentals\AdvancedExamPreparation\1. The Fight for Gondor\bin\Debug\netcoreapp3.1\1. The Fight for Gondor.pdb
+E:\C# Videos\C-Fundamentals\AdvancedExamPreparation\1. The Fight for Gondor\obj\Debug\netcoreapp3.1\1. The Fight for Gondor.csprojAssemblyReference.cache
+E:\C# Videos\C-Fundamentals\AdvancedExamPreparation\1. The Fight for Gondor\obj\Debug\netcoreapp3.1\1. The Fight for Gondor.AssemblyInfoInputs.cache
+E:\C# Videos\C-Fundamentals\AdvancedExamPreparation\1. The Fight for Gondor\obj\Debug\netcoreapp3.1\1. The Fight for Gondor.AssemblyInfo.cs
+E:\C# Videos\C-Fundamentals\AdvancedExamPreparation\1. The Fight for Gondor\obj\Debug\netcoreapp3.1\1. The Fight for Gondor.csproj.CoreCompileInputs.cache
+E:\C# Videos\C-Fundamentals\AdvancedExamPreparation\1. The Fight for Gondor\obj\Debug\netcoreapp3.1\1. The Fight for Gondor.dll
+E:\C# Videos\C-Fundamentals\AdvancedExamPreparation\1. The Fight for Gondor\obj\Debug\netcoreapp3.1\1. The Fight for Gondor.pdb
+E:\C# Videos\C-Fundamentals\AdvancedExamPreparation\1. The Fight for Gondor\obj\Debug\netcoreapp3.1\1. The Fight for Gondor.genruntimeconfig.cache

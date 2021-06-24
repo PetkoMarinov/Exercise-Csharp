@@ -1,0 +1,13 @@
+E:\C# Videos\C-Fundamentals\AdvancedExamPreparation\Garden\bin\Debug\netcoreapp3.1\Garden.exe
+E:\C# Videos\C-Fundamentals\AdvancedExamPreparation\Garden\bin\Debug\netcoreapp3.1\Garden.deps.json
+E:\C# Videos\C-Fundamentals\AdvancedExamPreparation\Garden\bin\Debug\netcoreapp3.1\Garden.runtimeconfig.json
+E:\C# Videos\C-Fundamentals\AdvancedExamPreparation\Garden\bin\Debug\netcoreapp3.1\Garden.runtimeconfig.dev.json
+E:\C# Videos\C-Fundamentals\AdvancedExamPreparation\Garden\bin\Debug\netcoreapp3.1\Garden.dll
+E:\C# Videos\C-Fundamentals\AdvancedExamPreparation\Garden\bin\Debug\netcoreapp3.1\Garden.pdb
+E:\C# Videos\C-Fundamentals\AdvancedExamPreparation\Garden\obj\Debug\netcoreapp3.1\Garden.csprojAssemblyReference.cache
+E:\C# Videos\C-Fundamentals\AdvancedExamPreparation\Garden\obj\Debug\netcoreapp3.1\Garden.AssemblyInfoInputs.cache
+E:\C# Videos\C-Fundamentals\AdvancedExamPreparation\Garden\obj\Debug\netcoreapp3.1\Garden.AssemblyInfo.cs
+E:\C# Videos\C-Fundamentals\AdvancedExamPreparation\Garden\obj\Debug\netcoreapp3.1\Garden.csproj.CoreCompileInputs.cache
+E:\C# Videos\C-Fundamentals\AdvancedExamPreparation\Garden\obj\Debug\netcoreapp3.1\Garden.dll
+E:\C# Videos\C-Fundamentals\AdvancedExamPreparation\Garden\obj\Debug\netcoreapp3.1\Garden.pdb
+E:\C# Videos\C-Fundamentals\AdvancedExamPreparation\Garden\obj\Debug\netcoreapp3.1\Garden.genruntimeconfig.cache
