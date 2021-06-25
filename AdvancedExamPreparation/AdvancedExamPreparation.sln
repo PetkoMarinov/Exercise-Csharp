@@ -3,13 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31229.75
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scheduling", "AdvancedExamPreparation\Scheduling.csproj", "{DAA0E413-996C-4335-90E2-1DBE31368209}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Scheduling", "AdvancedExamPreparation\Scheduling.csproj", "{DAA0E413-996C-4335-90E2-1DBE31368209}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Garden", "Garden\Garden.csproj", "{DB120A9A-2961-4CDC-81ED-EE5B0B4D998D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Garden", "Garden\Garden.csproj", "{DB120A9A-2961-4CDC-81ED-EE5B0B4D998D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassroomProject", "ClassroomProject\ClassroomProject.csproj", "{7BAD0DB0-80EC-421B-995E-03F0E4B48ED9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassroomProject", "ClassroomProject\ClassroomProject.csproj", "{7BAD0DB0-80EC-421B-995E-03F0E4B48ED9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. The Fight for Gondor", "1. The Fight for Gondor\1. The Fight for Gondor.csproj", "{C43C00BD-80AE-4ED4-AE2F-7942CC7E6219}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1. The Fight for Gondor", "1. The Fight for Gondor\1. The Fight for Gondor.csproj", "{C43C00BD-80AE-4ED4-AE2F-7942CC7E6219}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Warships", "Warships\Warships.csproj", "{C8D5EC89-F007-488B-913E-45C51DD1E899}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TheRace", "03. The Race\TheRace.csproj", "{C718D329-4A1D-4581-857B-258EB016F17B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +37,14 @@ Global
 		{C43C00BD-80AE-4ED4-AE2F-7942CC7E6219}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C43C00BD-80AE-4ED4-AE2F-7942CC7E6219}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C43C00BD-80AE-4ED4-AE2F-7942CC7E6219}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8D5EC89-F007-488B-913E-45C51DD1E899}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8D5EC89-F007-488B-913E-45C51DD1E899}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8D5EC89-F007-488B-913E-45C51DD1E899}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8D5EC89-F007-488B-913E-45C51DD1E899}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C718D329-4A1D-4581-857B-258EB016F17B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C718D329-4A1D-4581-857B-258EB016F17B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C718D329-4A1D-4581-857B-258EB016F17B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C718D329-4A1D-4581-857B-258EB016F17B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
