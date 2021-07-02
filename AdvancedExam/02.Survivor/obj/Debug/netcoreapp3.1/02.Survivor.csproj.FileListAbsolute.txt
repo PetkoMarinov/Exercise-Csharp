@@ -1,0 +1,13 @@
+E:\C# Videos\C-Fundamentals\AdvancedExam\02.Survivor\bin\Debug\netcoreapp3.1\02.Survivor.exe
+E:\C# Videos\C-Fundamentals\AdvancedExam\02.Survivor\bin\Debug\netcoreapp3.1\02.Survivor.deps.json
+E:\C# Videos\C-Fundamentals\AdvancedExam\02.Survivor\bin\Debug\netcoreapp3.1\02.Survivor.runtimeconfig.json
+E:\C# Videos\C-Fundamentals\AdvancedExam\02.Survivor\bin\Debug\netcoreapp3.1\02.Survivor.runtimeconfig.dev.json
+E:\C# Videos\C-Fundamentals\AdvancedExam\02.Survivor\bin\Debug\netcoreapp3.1\02.Survivor.dll
+E:\C# Videos\C-Fundamentals\AdvancedExam\02.Survivor\bin\Debug\netcoreapp3.1\02.Survivor.pdb
+E:\C# Videos\C-Fundamentals\AdvancedExam\02.Survivor\obj\Debug\netcoreapp3.1\02.Survivor.csprojAssemblyReference.cache
+E:\C# Videos\C-Fundamentals\AdvancedExam\02.Survivor\obj\Debug\netcoreapp3.1\02.Survivor.AssemblyInfoInputs.cache
+E:\C# Videos\C-Fundamentals\AdvancedExam\02.Survivor\obj\Debug\netcoreapp3.1\02.Survivor.AssemblyInfo.cs
+E:\C# Videos\C-Fundamentals\AdvancedExam\02.Survivor\obj\Debug\netcoreapp3.1\02.Survivor.csproj.CoreCompileInputs.cache
+E:\C# Videos\C-Fundamentals\AdvancedExam\02.Survivor\obj\Debug\netcoreapp3.1\02.Survivor.dll
+E:\C# Videos\C-Fundamentals\AdvancedExam\02.Survivor\obj\Debug\netcoreapp3.1\02.Survivor.pdb
+E:\C# Videos\C-Fundamentals\AdvancedExam\02.Survivor\obj\Debug\netcoreapp3.1\02.Survivor.genruntimeconfig.cache
